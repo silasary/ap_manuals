@@ -1,0 +1,894 @@
+[
+  {
+    "name": "Warrior of Light",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Warrior of Light"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Warrior of Light Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Warrior of Light"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Firion",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Firion"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Firion Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Firion"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Onion Knight",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Onion Knight"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Onion Knight Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Onion Knight"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Cecil",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Cecil"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Cecil Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Cecil"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Bartz",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Bartz"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Bartz Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Bartz"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Terra",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Terra"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Terra Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Terra"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Cloud",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Cloud"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Cloud Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Cloud"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Squall",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Squall"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Squall Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Squall"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Zidane",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Zidane"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Zidane Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Zidane"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Tidus",
+    "count": 1,
+    "category": [
+      "Character Unlocks",
+      "Tidus"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Increase Tidus Level Cap",
+    "count": 4,
+    "category": [
+      "Level Cap Increases",
+      "Tidus"
+    ],
+    "progression": true
+  },
+  {
+    "name": "Ifrit AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Ifrit",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Shiva AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Shiva",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Ramuh AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Ramuh",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Carbuncle AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Carbuncle",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Magic Pot AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Magic Pot",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Demon Wall AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Demon Wall",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Magus Sisters AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Magus Sisters",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Odin AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Odin",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Phoenix AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Phoenix",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Alexander AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Alexander",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Leviathan AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Leviathan",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Bahamut AUTO",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Bahamut",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Chocobo",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Moogle",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Mandragora",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Bomb",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Asura",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Titan",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Atomos",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Iron Giant",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Cactuar",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Tonberry",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Malboro",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Ultros",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Typhon",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Deathgaze",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Behemoth",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "PuPu",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Lich",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Marlilith",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Kraken",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Tiamat",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Scarmiglione",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Cagnazzo",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Barbariccia",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Rubicante",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Gilgamesh Summon",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Ultima Weapon",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Omega",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Land Worm",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Calcabrina",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Giant of Babil",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Syldra",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Ultima, the High Seraph",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Zalera, the Death Seraph",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Brynhildr",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Hecatoncheir",
+    "count": 1,
+    "category": [
+      "Summons"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Swords",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Knifes",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Greatswords",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Katanas",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Spears",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Axes",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Rods",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Staves",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Thrown",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Grappling",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Instruments",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Guns",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Poles",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Special",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Exclusive Equipment",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Parrying",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Shields",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Bangles",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Guantlets",
+    "count": 4,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Large Shields",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Hats",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Hairpins",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Helms",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Headbands",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Ribbons",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Clothing",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Robes",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Light Armor",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Heavy Armor",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  },
+  {
+    "name": "Level 30 Chestplates",
+    "count": 1,
+    "category": [
+      "Equipment"
+    ],
+    "useful": true
+  }
+]

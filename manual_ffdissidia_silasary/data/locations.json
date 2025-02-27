@@ -1,0 +1,818 @@
+[
+  {
+    "name": "Prologue - Forsaken Kingdom 1",
+    "category": ["00 - Prologue"],
+    "requires": []
+  },
+  {
+    "name": "Prologue - Forsaken Kingdom Clear",
+    "category": ["00 - Prologue"],
+    "requires": []
+  },
+  {
+    "name": "Cloud - Map 1 Enemy 1",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Map 1 Enemy Clear",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Gateway of Good and Evil Enemy 1",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Gateway of Good and Evil Firion",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Beyond the Continent Enemy 1",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Beyond the Continent Clear",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Dry River Gateway Enemy 1",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Dry River Gateway Clear",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Gulg Gateway Enemy 1",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Gulg Gateway Enemy 2",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Cloud - Gulg Gateway Sephiroth",
+    "requires": "|Cloud|",
+    "category": ["01 - Cloud"]
+  },
+  {
+    "name": "Onion Knight - Map 1 Enemy 1",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - Map 1 Clear",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - North Melmond Gateway Enemy 1",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - North Melmond Gateway Clear",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - Gateway to Decay Enemy 1",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - Gateway to Decay Enemy 2",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - Gateway to Decay Terra",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - Omen of Destruction Enemy 1",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - Omen of Destruction Enemy 2",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - Omen of Destruction Clear",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - Seasonless Gateway Enemy 1",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Onion Knight - Seasonless Gateway Cloud of Darkness",
+    "requires": "|Onion Knight|",
+    "category": ["02 - Onion Knight"]
+  },
+  {
+    "name": "Terra - Map 1 Enemy 1",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Map 1 Clear",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Frozen Continent Enemy 1",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Frozen Continent Clear",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Gateway of Melting Snows Enemy 1",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Gateway of Melting Snows Enemy 2",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Gateway of Melting Snows Enemy 3",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Gateway of Melting Snows Cloud",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Gateway of True Intent Enemy 1",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Gateway of True Intent Clear",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Crescent Lake Gateway Enemy 1",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Crescent Lake Gateway Enemy 2",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Terra - Crescent Lake Gateway Kefka",
+    "requires": "|Terra|",
+    "category": ["03 - Terra"]
+  },
+  {
+    "name": "Cecil - Map 1 Enemy 1",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Map 1 Clear",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Gateway to the Shore Enemy 1",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Gateway to the Shore Clear",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Gateway of Fools and Hope Enemy 1",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Gateway of Fools and Hope Enemy 2",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Gateway of Fools and Hope Enemy 3",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Gateway of Fools and Hope Exdeath",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Sunken Gate Lakeway Enemy 1",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Sunken Gate Lakeway Enemy 2",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Sunken Gate Lakeway Clear",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Gulg Gateway Enemy 1",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Gulg Gateway Enemy 2",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Cecil - Gulg Gateway Golbez",
+    "requires": "|Cecil|",
+    "category": ["04 - Cecil"]
+  },
+  {
+    "name": "Tidus - Map 1 Enemy 1",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Map 1 Clear",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Gateway to the Shore Enemy 1",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Gateway to the Shore Clear",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Sage's Path Gateway Enemy 1",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Sage's Path Gateway Enemy 2",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Sage's Path Gateway The Emperor",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Legendary Lake Gateway Enemy 1",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Legendary Lake Gateway Clear",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Encounters and Treason Enemy 1",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Encounters and Treason Clear",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Gulg Gateway Enemy 1",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Gulg Gateway Enemy 2",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Tidus - Gulg Gateway Jecht",
+    "requires": "|Tidus|",
+    "category": ["05 - Tidus"]
+  },
+  {
+    "name": "Firion - Map 1 Enemy 1",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - Map 1 Clear",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - Legendary Lake Gateway Enemy 1",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - Legendary Lake Gateway Enemy 2",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - Legendary Lake Gateway Jecht",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - Encounters and Treason Enemy 1",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - Encounters and Treason Enemy 2",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - Encounters and Treason Ultimecia",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - Gateway of the Great Will Enemy 1",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - Gateway of the Great Will Clear",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - The Gateway of Wails Enemy 1",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - The Gateway of Wails Enemy 2",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Firion - The Gateway of Wails The Emperor",
+    "requires": "|Firion|",
+    "category": ["06 - Firion"]
+  },
+  {
+    "name": "Squall - Map 1 Enemy 1",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Map 1 Clear",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Northern Mirage Gateway Enemy 1",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Northern Mirage Gateway Clear",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Eastern Mirage Gateway Enemy 1",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Eastern Mirage Gateway Enemy 2",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Eastern Mirage Gateway Kuja",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Forgotten Trail Enemy 1",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Forgotten Trail Enemy 2",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Forgotten Trail Warrior of Light",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Southern Lufenia Gateway Enemy 1",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Southern Lufenia Gateway Enemy 2",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Squall - Southern Lufenia Gateway Ultimecia",
+    "requires": "|Firion|",
+    "category": ["07 - Squall"]
+  },
+  {
+    "name": "Zidane - Map 1 Enemy 1",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Map 1 Clear",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Gateway of Trails Enemy 1",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Gateway of Trails Enemy 2",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Gateway of Trails Kefka",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Southern Lufenia Gateway Enemy 1",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Southern Lufenia Gateway Enemy 2",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Southern Lufenia Gateway Garland",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Gateway of the Great Will Enemy 1",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Gateway of the Great Will Enemy 2",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Gateway of the Great Will Clear",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Inherited Memories Enemy 1",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Inherited Memories Enemy 2",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Inherited Memories Enemy 3",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Zidane - Inherited Memories Kuja",
+    "requires": "|Zidane|",
+    "category": ["08 - Zidane"]
+  },
+  {
+    "name": "Bartz - Map 1 Enemy 1",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Map 1 Clear",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Confinement and Flight Enemy 1",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Confinement and Flight Clear",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Inherited Memories Enemy 1",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Inherited Memories Enemy 2",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Inherited Memories Enemy 3",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Inherited Memories Golbez",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Gateway of the Great Will Enemy 1",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Gateway of the Great Will Clear",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Gateway of Artificial Life Enemy 1",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Gateway of Artificial Life Enemy 2",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "Bartz - Gateway of Artificial Life Exdeath",
+    "requires": "|Bartz|",
+    "category": ["09 - Bartz"]
+  },
+  {
+    "name": "WoL - Map 1 Enemy 1",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Map 1 Garland 1",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Gateway of the Damned Enemy 1",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Gateway of the Damned Enemy 2",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Gateway of the Damned Sephiroth",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Southern Lufenia Gateway Enemy 1",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Southern Lufenia Gateway Enemy 2",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Southern Lufenia Gateway Ultimecia",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Conquered Trials Gateway Enemy 1",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Conquered Trials Gateway Clear",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Conflicting Virtues Enemy 1",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Conflicting Virtues Enemy 2",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Conflicting Virtues The Emperor",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Pervasive Sorrow Enemy 1",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Pervasive Sorrow Enemy 2",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "WoL - Pervasive Sorrow Garland 2",
+    "requires": "|Warrior of Light|",
+    "category": ["10 - Warrior of Light"]
+  },
+  {
+    "name": "Epilogue - Map 1 Enemy 1",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Map 1 Enemy 2",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Map 1 Exdeath",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Gateway of Artificial Life Enemy 1",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Gateway of Artificial Life Enemy 2",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Gateway of Artificial Life Kefka",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Inherited Memories Enemy 1",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Inherited Memories Enemy 2",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Inherited Memories Kuja",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Confinement and Flight Enemy 1",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Confinement and Flight Enemy 2",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Confinement and Flight Jecht",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Gateway of Infernos Enemy 1",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Gateway of Infernos Enemy 2",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Gateway of Infernos Golbez",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Pervasive Sorrow Enemy 1",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Pervasive Sorrow Enemy 2",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Pervasive Sorrow Enemy 3",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Pervasive Sorrow The Emperor",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Solitary Salvation Enemy 1",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Solitary Salvation Enemy 2",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Solitary Salvation Enemy 3",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Solitary Salvation Garland",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Edge of Discord Chaos 1",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Edge of Discord Chaos 2",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Epilogue - Edge of Discord Chaos 3",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"]
+  },
+  {
+    "name": "Defeat Chaos",
+    "requires": "|Warrior of Light| AND |Firion| AND |Onion Knight| AND |Cecil| AND |Bartz| AND |Terra| AND |Cloud| AND |Squall| AND |Zidane| AND |Tidus|",
+    "category": ["11 - Epilogue"],
+    "victory": true
+  }
+]
