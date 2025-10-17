@@ -1,0 +1,11 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "siIvagunner",
+    "creator": "Silasary",
+
+    "filler_item_name": "Grand Dad",
+
+    "starting_items": [],
+    "death_link": true,
+    "starting_index": 1
+}

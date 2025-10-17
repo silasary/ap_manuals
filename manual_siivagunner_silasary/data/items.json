@@ -1,0 +1,11 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Joke Explanation",
+            "category": ["Mcguffin"],
+            "progression_skip_balancing": true,
+            "count": 50
+        }
+    ]
+}
