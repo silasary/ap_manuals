@@ -1,0 +1,45 @@
+name: Update Manual base version
+description: Update the base version of the manual to the latest released version.
+inputs:
+  allow_unstable:
+    description: Whether to allow unstable (pre-release) versions.
+    required: false
+    default: 'false'
+  directory:
+    description: The directory where the manual files are located.
+    required: false
+    default: '.'
+runs:
+  using: 'composite'
+  steps:
+    - name: Get latest tag
+      id: getmanualtag
+      shell: bash
+      run: |
+        if [[ "${{ inputs.allow_unstable }}" == "true" ]]; then
+          echo "releasetag=$(curl -s -H "Authorization: Bearer ${{ github.token }}" https://api.github.com/repos/ManualForArchipelago/Manual/releases | jq -r '.[0].tag_name' )" >> $GITHUB_OUTPUT
+        else
+          echo "releasetag=$(curl -s -H "Authorization: Bearer ${{ github.token }}" https://api.github.com/repos/ManualForArchipelago/Manual/releases/latest | jq -r '.tag_name' )" >> $GITHUB_OUTPUT
+        fi
+    - name: Download Manual
+      id: downloadmanual
+      shell: bash
+      run: |
+        curl -L -o /tmp/manual.zip https://github.com/ManualForArchipelago/Manual/releases/download/${{ steps.getmanualtag.outputs.releasetag }}/${{ steps.getmanualtag.outputs.releasetag }}.apworld
+        unzip -o /tmp/manual.zip -d /tmp/manual
+    - name: Download hook patcher
+      shell: bash
+      run: |
+        curl -L -o /tmp/update_hooks.py https://raw.githubusercontent.com/silasary/ap_manuals/refs/heads/main/update-manual/update_hooks.py
+    - name: Update Base Manual Files
+      shell: bash
+      run: |
+        cp -r /tmp/manual/${{ steps.getmanualtag.outputs.releasetag }}/*.py ${{ inputs.directory }}/
+    - name: Update Hooks
+      shell: bash
+      run: |
+        python /tmp/update_hooks.py /tmp/manual/${{ steps.getmanualtag.outputs.releasetag }} ${{ inputs.directory }}
+    - name: Write version file
+      shell: bash
+      run: |
+        echo "${{ steps.getmanualtag.outputs.releasetag }}" > ${{ inputs.directory }}/MANUAL_VERSION.txt
