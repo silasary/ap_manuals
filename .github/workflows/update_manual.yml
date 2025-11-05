@@ -12,7 +12,7 @@ jobs:
       matrix:
         directory:
           - 'manual_ffdissidia_silasary'
-          - 'manual_siivagunner_silasary'
+        #   - 'manual_siivagunner_silasary'
     permissions:
       contents: write
       pull-requests: write
@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update manual
-        uses: ./update-manual
+        uses: silasary/ap_manuals/update-manual@main
         with:
           allow_unstable: 'true'
           directory: ${{ matrix.directory }}
