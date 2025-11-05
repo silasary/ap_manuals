@@ -1,6 +1,7 @@
 import glob
 import ast
 import argparse
+import os
 
 
 parser = argparse.ArgumentParser(description="Update manual with latest hooks.")
@@ -47,7 +48,7 @@ manual_path = args.manual_path
 #     return functions
 
 for hook_file in glob.glob("hooks/*.py", root_dir=base_path):
-    if hook_file.lower() == 'rules.py':
+    if os.path.basename(hook_file).lower() == 'rules.py':
         continue
     print(f"Processing {hook_file}...")
     with open(f"{base_path}/{hook_file}", "r") as f:
@@ -58,7 +59,6 @@ for hook_file in glob.glob("hooks/*.py", root_dir=base_path):
         manual_code = f.read()
     tree = ast.parse(manual_code)
     found_functions = {node.name: node for node in tree.body if isinstance(node, ast.FunctionDef)}
-
 
     to_add = []
     to_update = []
