@@ -1,0 +1,7 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.categories.schema.json",
+    "stony_point": {
+        "hidden": true,
+        "yaml_option": ["include_stony_point"]
+    }
+}

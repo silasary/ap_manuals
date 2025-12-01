@@ -1,0 +1,272 @@
+{
+  "Flinders Street": {
+    "starting": true,
+    "connects_to": [
+      "South Yarra",
+      "Southern Cross"
+    ],
+    "requires": "|Southern Cross and Flinders Street Access|"
+  },
+  "Southern Cross": {
+    "connects_to": [
+      "Footscray",
+      "City Loop"
+    ],
+    "requires": "|Southern Cross and Flinders Street Access|"
+  },
+  "Footscray": {
+    "connects_to": [
+      "Essendon",
+      "Coburg",
+      "Sunshine",
+      "Newport"
+    ],
+    "requires": "|North Melbourne and Footscray Access|"
+  },
+  "Newport": {
+    "connects_to": [
+      "Williamstown",
+      "Altona Loop",
+      "Werribee"
+    ],
+    "requires": "|Newport Access|"
+  },
+  "Williamstown": {
+    "connects_to": [],
+    "requires": "|Williamstown Access|"
+  },
+  "Altona Loop": {
+    "connects_to": [],
+    "requires": "|Altona Loop Access|"
+  },
+  "Werribee": {
+    "connects_to": [],
+    "requires": "|Werribee Access|"
+  },
+  "Sunshine": {
+    "connects_to": [
+      "Watergardens"
+    ],
+    "requires": "|Progressive Sunbury Access:1|"
+  },
+  "Watergardens": {
+    "connects_to": [
+      "Sunbury"
+    ],
+    "requires": "|Progressive Sunbury Access:2|"
+  },
+  "Sunbury": {
+    "connects_to": [],
+    "requires": "|Progressive Sunbury Access:3|"
+  },
+  "Essendon": {
+    "connects_to": [
+      "Broadmeadows"
+    ],
+    "requires": "|Progressive Craigieburn Access:1|"
+  },
+  "Broadmeadows": {
+    "connects_to": [
+      "Craigieburn"
+    ],
+    "requires": "|Progressive Craigieburn Access:2|"
+  },
+  "Craigieburn": {
+    "connects_to": [],
+    "requires": "|Progressive Craigieburn Access:3|"
+  },
+  "Coburg": {
+    "connects_to": [
+      "Upfield"
+    ],
+    "requires": "|Progressive Upfield Access:1|"
+  },
+  "Upfield": {
+    "connects_to": [],
+    "requires": "|Progressive Upfield Access:2|"
+  },
+  "City Loop": {
+    "connects_to": [
+      "Clifton Hill"
+    ],
+    "requires": "|City Loop Access|"
+  },
+  "Clifton Hill": {
+    "connects_to": [
+      "Preston",
+      "Heidelberg"
+    ],
+    "requires": "|Clifton Hill Access|"
+  },
+  "Preston": {
+    "connects_to": [
+      "Epping"
+    ],
+    "requires": "|Progressive Mernda Access:1|"
+  },
+  "Epping": {
+    "connects_to": [
+      "Mernda"
+    ],
+    "requires": "|Progressive Mernda Access:2|"
+  },
+  "Mernda": {
+    "connects_to": [],
+    "requires": "|Progressive Mernda Access:3|"
+  },
+  "Heidelberg": {
+    "connects_to": [
+      "Eltham"
+    ],
+    "requires": "|Progressive Hurstbridge Access:1|"
+  },
+  "Eltham": {
+    "connects_to": [
+      "Hurstbridge"
+    ],
+    "requires": "|Progressive Hurstbridge Access:2|"
+  },
+  "Hurstbridge": {
+    "connects_to": [],
+    "requires": "|Progressive Hurstbridge Access:3|"
+  },
+  "South Yarra": {
+    "connects_to": [
+      "Burnley",
+      "Caulfield",
+      "Sandringham"
+    ],
+    "requires": "|Richmond and South Yarra Access|"
+  },
+  "Burnley": {
+    "connects_to": [
+      "Camberwell",
+      "Darling"
+    ],
+    "requires": "|Burnley Access|"
+  },
+  "Camberwell": {
+    "connects_to": [
+      "Box Hill",
+      "Alamein"
+    ],
+    "requires": "|Progressive Lilydale/Belgrave Access:1|"
+  },
+  "Box Hill": {
+    "connects_to": [
+      "Ringwood"
+    ],
+    "requires": "|Progressive Lilydale/Belgrave Access:2|"
+  },
+  "Ringwood": {
+    "connects_to": [
+      "Lilydale",
+      "Belgrave"
+    ],
+    "requires": "|Progressive Lilydale/Belgrave Access:3|"
+  },
+  "Lilydale": {
+    "connects_to": [],
+    "requires": "|Progressive Lilydale/Belgrave Access:4|"
+  },
+  "Belgrave": {
+    "connects_to": [],
+    "requires": "|Progressive Lilydale/Belgrave Access:5|"
+  },
+  "Alamein": {
+    "connects_to": [],
+    "requires": "|Alamein Access|"
+  },
+  "Darling": {
+    "connects_to": [
+      "Glen Waverley"
+    ],
+    "requires": "|Progressive Glen Waverley Access:1|"
+  },
+  "Glen Waverley": {
+    "connects_to": [],
+    "requires": "|Progressive Glen Waverley Access:2|"
+  },
+  "Caulfield": {
+    "connects_to": [
+      "Clayton",
+      "Moorabbin"
+    ],
+    "requires": "|Caulfield Access|"
+  },
+  "Clayton": {
+    "connects_to": [
+      "Dandenong"
+    ],
+    "requires": "|Progressive Pakenham/Cranbourne Access:1|"
+  },
+  "Dandenong": {
+    "connects_to": [
+      "Berwick",
+      "Cranbourne"
+    ],
+    "requires": "|Progressive Pakenham/Cranbourne Access:2|"
+  },
+  "Berwick": {
+    "connects_to": [
+      "Pakenham"
+    ],
+    "requires": "|Progressive Pakenham/Cranbourne Access:4|"
+  },
+  "Pakenham": {
+    "connects_to": [],
+    "requires": "|Progressive Pakenham/Cranbourne Access:5|"
+  },
+  "Cranbourne": {
+    "connects_to": [],
+    "requires": "|Progressive Pakenham/Cranbourne Access:3|"
+  },
+  "Moorabbin": {
+    "connects_to": [
+      "Mordialloc"
+    ],
+    "requires": "|Progressive Frankston Access:1|"
+  },
+  "Mordialloc": {
+    "connects_to": [
+      "Frankston"
+    ],
+    "requires": "|Progressive Frankston Access:2|"
+  },
+  "Frankston": {
+    "connects_to": ["Stony Point"],
+    "requires": "|Progressive Frankston Access:3|"
+  },
+  "Stony Point": {
+    "connects_to": [],
+    "requires": "|Progressive Frankston Access:4|"
+  },
+  "Sandringham": {
+    "connects_to": [],
+    "requires": "|Sandringham Access|"
+  },
+  "Deer Park": {
+    "connects_to": ["Lara", "Melton"],
+    "requires": "|Progressive Waurn Ponds Access:1| OR |Progressive Ballarat Access:1|"
+  },
+  "Melton": {
+    "connects_to": ["Ballarat"],
+    "requires": "|Progressive Ballarat Access:2|"
+  },
+  "Ballarat": {
+    "connects_to": [],
+    "requires": "|Progressive Ballarat Access:3|"
+  },
+  "Lara": {
+    "connects_to": ["Geelong"],
+    "requires": "|Progressive Waurn Ponds Access:2|"
+  },
+  "Geelong": {
+    "connects_to": ["Waurn Ponds"],
+    "requires": "|Progressive Waurn Ponds Access:3|"
+  },
+  "Waurn Ponds": {
+    "connects_to": [],
+    "requires": "|Progressive Waurn Ponds Access:4|"
+  }
+}

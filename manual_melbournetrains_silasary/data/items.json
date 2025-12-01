@@ -1,0 +1,246 @@
+[
+  {
+    "count": 1,
+    "name": "Newport Access",
+    "category": [
+      "West Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Williamstown Access",
+    "category": [
+      "West Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Altona Loop Access",
+    "category": [
+      "West Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Werribee Access",
+    "category": [
+      "West Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "North Melbourne and Footscray Access",
+    "category": [
+      "West Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Sunbury Access",
+    "category": [
+      "West Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Craigieburn Access",
+    "category": [
+      "West Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Upfield Access",
+    "category": [
+      "West Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Southern Cross and Flinders Street Access",
+    "category": [
+      "CBD Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "City Loop Access",
+    "category": [
+      "CBD Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Clifton Hill Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Mernda Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Hurstbridge Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Richmond and South Yarra Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Burnley Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Lilydale/Belgrave Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alamein Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Progressive Glen Waverley Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Caulfield Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Pakenham/Cranbourne Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Frankston Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sandringham Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Waurn Ponds Access",
+    "category": [
+      "Western V/Line Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Progressive Ballarat Access",
+    "category": [
+      "Western V/Line Station Access"
+    ],
+    "progression": true
+  },
+
+
+  {"name": "Bounty", "progression": true, "count": 30, "category": ["Goal"], "local": true},
+
+  {"name": "Flemington Racecourse Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Avalon Airport Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tullamarine Airport Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Warrnambool Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Ararat Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Maryborough Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Bendigo Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Echuca Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Swan Hill Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Seymour Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Shepparton Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Albury Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Traralgon Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Bairnsdale Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Stony Point Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Metro Tunnel Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 1 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 3 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 3a Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 5 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 6 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 11 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 12 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 16 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 19 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 30 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 35 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 48 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 57 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 58 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 59 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 64 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 67 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 70 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 72 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 75 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 78 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 82 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 86 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 96 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Tram Route 109 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Buses", "useful": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Shorter Journey", "useful": true, "count": 10, "category": ["Power Ups"]},
+  {"name": "Myki Top Up", "useful": true, "count": 20, "category": ["Power Ups"]},
+
+  {"name": "Get a Souvenir Trap", "trap": true, "count": 0, "category": ["Traps"]},
+  {"name": "Xtrapolis Only Trap", "filler": true, "count": 0, "category": ["Traps"]}
+
+]
