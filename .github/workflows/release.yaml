@@ -19,7 +19,6 @@ jobs:
         env:
             world: ${{ github.event.inputs.world }}
 
-
         steps:
             - name: Checkout repo
               uses: actions/checkout@v3
@@ -31,7 +30,7 @@ jobs:
                   fetch-depth: 1
             - name: Set up venv and install dependencies
               run: |
-                  ln -s ${{ github.workspace }} Archipelago/worlds/${{ env.world }}
+                  ln -s ${{ github.workspace }}/${{ env.world }} Archipelago/worlds/${{ env.world }}
                   python -m venv venv
                   source venv/bin/activate
                   pip install --upgrade pip
@@ -55,17 +54,17 @@ jobs:
               id: get_version
               uses: mikefarah/yq@v4.45.1
               with:
-                  cmd: yq .world_version worlds/${{ env.world }}/archipelago.json --unwrapScalar=true
+                  cmd: yq .world_version Archipelago/worlds/${{ env.world }}/archipelago.json --unwrapScalar=true
             - name: Get Name
               id: get_name
               uses: mikefarah/yq@v4.45.1
               with:
-                  cmd: yq .game worlds/${{ env.world }}/archipelago.json --unwrapScalar=true
+                  cmd: yq .game Archipelago/worlds/${{ env.world }}/archipelago.json --unwrapScalar=true
             - name: Get Changelog
               id: get_changelog
               uses: mikefarah/yq@v4.45.1
               with:
-                  cmd: yq '.changelog | join("\n")' worlds/${{ env.world }}/archipelago.json --unwrapScalar=true
+                  cmd: yq '.changelog | join("\n")' Archipelago/worlds/${{ env.world }}/archipelago.json --unwrapScalar=true
 
             - name: Create release
               uses: ncipollo/release-action@v1
