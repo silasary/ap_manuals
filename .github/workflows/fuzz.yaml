@@ -1,0 +1,23 @@
+name: Fuzz apworld
+on:
+  push:
+  pull_request:
+
+jobs:
+  fuzz:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      matrix:
+        directory:
+          - 'manual_ffdissidia_silasary'
+          - 'manual_siivagunner_silasary'
+          - 'manual_melbournetrains_silasary'
+    steps:
+      - uses: Eijebong/ap-actions/fuzz@main
+        with:
+          apworld-path: ${{ matrix.directory }}
+          ap-version: latest
+          python-version: '3.13'
+          runs: 500 # This is optional
+          yamls-per-run: 1 # This is optional
