@@ -45,7 +45,8 @@
   },
   "Sunshine": {
     "connects_to": [
-      "Watergardens"
+      "Watergardens",
+      "Deer Park"
     ],
     "requires": "|Progressive Sunbury Access:1|"
   },
