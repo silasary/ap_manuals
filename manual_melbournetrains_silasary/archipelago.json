@@ -1,1 +1,9 @@
-{"game": "Manual_MelbourneTrains_Awesome7285", "authors": ["Awesome7285"], "minimum_ap_version": "0.6.3", "world_version": "0.1.1", "compatible_version": 7, "version": 7}
+{
+    "game": "Manual_MelbourneTrains_silasary",
+    "authors": [
+        "Awesome7285",
+        "silasary"
+    ],
+    "minimum_ap_version": "0.6.3",
+    "world_version": "0.2.0"
+}
