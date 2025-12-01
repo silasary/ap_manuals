@@ -7,7 +7,7 @@ jobs:
   tests:
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 1
+      # max-parallel: 1
       matrix:
         directory:
           - 'manual_ffdissidia_silasary'
