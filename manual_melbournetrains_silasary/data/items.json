@@ -192,10 +192,18 @@
     "progression": true
   },
 
+  {
+    "count": 1,
+    "name": "Metro Tunnel Access",
+    "category": [
+      "CBD Station Access"
+    ],
+    "progression": true
+  },
 
-  {"name": "Bounty", "progression": true, "count": 30, "category": ["Goal"], "local": true},
+  {"name": "Bounty", "progression": true, "count": 30, "category": ["Goal"], "local": true, "id": 1000},
 
-  {"name": "Flemington Racecourse Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
+  {"name": "Flemington Racecourse Access", "filler": true, "count": 1, "category": ["Filler Transport"], "id": 2000},
   {"name": "Avalon Airport Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
   {"name": "Tullamarine Airport Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
   {"name": "Warrnambool Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
@@ -209,8 +217,6 @@
   {"name": "Albury Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
   {"name": "Traralgon Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
   {"name": "Bairnsdale Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
-  {"name": "Stony Point Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
-  {"name": "Metro Tunnel Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
   {"name": "Tram Route 1 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
   {"name": "Tram Route 3 Access", "filler": true, "count": 1, "category": ["Filler Transport"]},
   {"name": "Tram Route 3a Access", "filler": true, "count": 1, "category": ["Filler Transport"]},

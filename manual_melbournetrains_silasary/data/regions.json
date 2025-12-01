@@ -3,7 +3,8 @@
     "starting": true,
     "connects_to": [
       "South Yarra",
-      "Southern Cross"
+      "Southern Cross",
+      "Metro Tunnel"
     ],
     "requires": "|Southern Cross and Flinders Street Access|"
   },
@@ -13,6 +14,13 @@
       "City Loop"
     ],
     "requires": "|Southern Cross and Flinders Street Access|"
+  },
+  "Metro Tunnel": {
+    "connects_to": [
+      "Footscray",
+      "Caulfield"
+    ],
+    "requires": "|Metro Tunnel Access|"
   },
   "Footscray": {
     "connects_to": [

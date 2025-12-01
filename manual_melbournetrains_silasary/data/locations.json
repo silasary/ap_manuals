@@ -64,6 +64,12 @@
   { "name": "Melbourne Central Station", "region": "City Loop", "category": ["CBD"] },
   { "name": "Parliament Station", "region": "City Loop", "category": ["CBD"] },
 
+  { "name": "Anzac Station", "region": "Metro Tunnel", "category": ["CBD"] },
+  { "name": "Town Hall Station", "region": "Metro Tunnel", "category": ["CBD"] },
+  { "name": "State Library Station", "region": "Metro Tunnel", "category": ["CBD"] },
+  { "name": "Parkville Station", "region": "Metro Tunnel", "category": ["CBD"] },
+  { "name": "Arden Station", "region": "Metro Tunnel", "category": ["CBD"] },
+
   { "name": "Jolimont Station", "region": "Clifton Hill", "category": ["Mernda Line", "Hurstbridge Line"] },
   { "name": "West Richmond Station", "region": "Clifton Hill", "category": ["Mernda Line", "Hurstbridge Line"] },
   { "name": "North Richmond Station", "region": "Clifton Hill", "category": ["Mernda Line", "Hurstbridge Line"] },
