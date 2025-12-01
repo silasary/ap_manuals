@@ -56,6 +56,9 @@ for item in item_table:
 item_id_to_name[None] = "__Victory__"
 item_name_to_id = {name: id for id, name in item_id_to_name.items()}
 
+for group in list(item_name_groups.keys()):
+    if group in item_name_to_id:
+        del item_name_groups[group]
 
 ######################
 # Item classes
