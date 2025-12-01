@@ -160,8 +160,16 @@
     "progression": true
   },
   {
-    "count": "4",
+    "count": "3",
     "name": "Progressive Frankston Access",
+    "category": [
+      "East Station Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stony Point Access",
     "category": [
       "East Station Access"
     ],
@@ -191,7 +199,6 @@
     ],
     "progression": true
   },
-
   {
     "count": 1,
     "name": "Metro Tunnel Access",

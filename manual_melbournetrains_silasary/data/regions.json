@@ -248,7 +248,7 @@
   },
   "Stony Point": {
     "connects_to": [],
-    "requires": "|Progressive Frankston Access:4|"
+    "requires": "|Stony Point Access|"
   },
   "Sandringham": {
     "connects_to": [],

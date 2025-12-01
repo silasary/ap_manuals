@@ -26,7 +26,7 @@ from Options import PerGameCommonOptions
 from worlds.AutoWorld import World
 
 from .hooks.World import \
-    hook_get_filler_item_name, before_create_regions, after_create_regions, \
+    before_generate_early, hook_get_filler_item_name, before_create_regions, after_create_regions, \
     before_create_items_all, before_create_items_starting, before_create_items_filler, after_create_items, \
     before_create_item, after_create_item, \
     before_set_rules, after_set_rules, \
@@ -90,6 +90,9 @@ class ManualWorld(World):
     @classmethod
     def stage_assert_generate(cls, multiworld) -> None:
         runGenerationDataValidation(cls)
+
+    def generate_early(self) -> None:
+        before_generate_early(self, self.multiworld, self.player)
 
 
     def create_regions(self):
