@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Upfield Line",
+        "children": [
+            {
+                "name": "Coburg",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Macaulay Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Flemington Bridge Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Royal Park Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Jewell Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Brunswick Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Anstey Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Moreland Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Coburg Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 275,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Upfield",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Batman Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Merlynston Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fawkner Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gowrie Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Upfield Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 300,
+                        "y": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

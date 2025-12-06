@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Werribee and Williamstown Lines",
+        "children": [
+            {
+                "name": "Footscray",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "North Melbourne Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "South Kensington Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Footscray Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 0,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Newport",
+                "access_rules": [
+                    "newport_access, north_melbourne_and_footscray_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Seddon Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Yarraville Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Spotswood Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Newport Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 25,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Williamstown",
+                "access_rules": [
+                    "newport_access, north_melbourne_and_footscray_access, southern_cross_and_flinders_street_access, williamstown_access"
+                ],
+                "sections": [
+                    {
+                        "name": "North Williamstown Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Williamstown Beach Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Williamstown Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 50,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Altona Loop",
+                "access_rules": [
+                    "altona_loop_access, newport_access, north_melbourne_and_footscray_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Seaholme Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Altona Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Westona Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 75,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Werribee",
+                "access_rules": [
+                    "newport_access, north_melbourne_and_footscray_access, southern_cross_and_flinders_street_access, werribee_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Laverton Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Aircraft Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Williams Landing Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hoppers Crossing Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Werribee Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 100,
+                        "y": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

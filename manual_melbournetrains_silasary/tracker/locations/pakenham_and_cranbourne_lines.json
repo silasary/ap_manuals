@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Pakenham and Cranbourne Lines",
+        "children": [
+            {
+                "name": "South Yarra",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "South Yarra Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 350,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Caulfield",
+                "access_rules": [
+                    "caulfield_access, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Hawksburn Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Toorak Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Armadale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Malvern Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Caulfield Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 375,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Clayton",
+                "access_rules": [
+                    "caulfield_access, progressive_pakenham_cranbourne_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_pakenham_cranbourne_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Carnegie Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Murrumbeena Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hughesdale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Oakleigh Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Huntingdale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Clayton Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 400,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Dandenong",
+                "access_rules": [
+                    "caulfield_access, progressive_pakenham_cranbourne_access:1, progressive_pakenham_cranbourne_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_pakenham_cranbourne_access:1, progressive_pakenham_cranbourne_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Westall Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Springvale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sandown Park Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Noble Park Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Yarraman Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dandenong Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 425,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Berwick",
+                "access_rules": [
+                    "caulfield_access, progressive_pakenham_cranbourne_access:1, progressive_pakenham_cranbourne_access:2, progressive_pakenham_cranbourne_access:4, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_pakenham_cranbourne_access:1, progressive_pakenham_cranbourne_access:2, progressive_pakenham_cranbourne_access:4, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Hallam Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Narre Warren Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Berwick Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 450,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Pakenham",
+                "access_rules": [
+                    "caulfield_access, progressive_pakenham_cranbourne_access:1, progressive_pakenham_cranbourne_access:2, progressive_pakenham_cranbourne_access:4, progressive_pakenham_cranbourne_access:5, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_pakenham_cranbourne_access:1, progressive_pakenham_cranbourne_access:2, progressive_pakenham_cranbourne_access:4, progressive_pakenham_cranbourne_access:5, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Beaconsfield Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Officer Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cardinia Road Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pakenham Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "East Pakenham Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 475,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Cranbourne",
+                "access_rules": [
+                    "caulfield_access, progressive_pakenham_cranbourne_access:1, progressive_pakenham_cranbourne_access:2, progressive_pakenham_cranbourne_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_pakenham_cranbourne_access:1, progressive_pakenham_cranbourne_access:2, progressive_pakenham_cranbourne_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Lynbrook Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Merinda Park Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cranbourne Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 0,
+                        "y": 50
+                    }
+                ]
+            }
+        ]
+    }
+]

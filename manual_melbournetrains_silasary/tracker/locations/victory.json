@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Victory",
+        "children": [
+            {
+                "name": "__start__",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Victory",
+                        "item_count": 1,
+                        "access_rules": [
+                            "bounty:1"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 250,
+                        "y": 50
+                    }
+                ]
+            }
+        ]
+    }
+]

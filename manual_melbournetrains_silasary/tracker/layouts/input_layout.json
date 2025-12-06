@@ -1,0 +1,151 @@
+{
+    "west_station_access": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "newport_access",
+                "williamstown_access",
+                "altona_loop_access",
+                "werribee_access",
+                "north_melbourne_and_footscray_access",
+                "progressive_sunbury_access",
+                "progressive_craigieburn_access",
+                "progressive_upfield_access",
+                "",
+                ""
+            ]
+        ]
+    },
+    "cbd_station_access": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "southern_cross_and_flinders_street_access",
+                "city_loop_access",
+                "metro_tunnel_access",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    "east_station_access": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "clifton_hill_access",
+                "progressive_mernda_access",
+                "progressive_hurstbridge_access",
+                "richmond_and_south_yarra_access",
+                "burnley_access",
+                "progressive_lilydale_belgrave_access",
+                "alamein_access",
+                "progressive_glen_waverley_access",
+                "caulfield_access",
+                "progressive_pakenham_cranbourne_access"
+            ],
+            [
+                "progressive_frankston_access",
+                "stony_point_access",
+                "sandringham_access",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    "western_v_line_station_access": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "progressive_waurn_ponds_access",
+                "progressive_ballarat_access",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    "goal": {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_size": 40,
+        "item_margin": "4,4",
+        "rows": [
+            [
+                "bounty",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    },
+    "tracker_items": {
+        "type": "array",
+        "orientation": "vertical",
+        "style": "wrap",
+        "content": [
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "west_station_access"
+            },
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "cbd_station_access"
+            },
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "east_station_access"
+            },
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "western_v_line_station_access"
+            },
+            {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 0,
+                "key": "goal"
+            }
+        ]
+    }
+}

@@ -1,0 +1,214 @@
+[
+    {
+        "name": "Frankston Line",
+        "children": [
+            {
+                "name": "Moorabbin",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Glen Huntly Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ormond Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "McKinnon Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bentleigh Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Patterson Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Moorabbin Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 25,
+                        "y": 50
+                    }
+                ]
+            },
+            {
+                "name": "Mordialloc",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Highett Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Southland Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cheltenham Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mentone Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Parkdale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mordialloc Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 50,
+                        "y": 50
+                    }
+                ]
+            },
+            {
+                "name": "Frankston",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Aspendale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Edithvale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chelsea Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bonbeach Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Carrum Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Seaford Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Kananook Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Frankston Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 75,
+                        "y": 50
+                    }
+                ]
+            },
+            {
+                "name": "Stony Point",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Leawarra Station",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "include_stony_point"
+                        ]
+                    },
+                    {
+                        "name": "Baxter Station",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "include_stony_point"
+                        ]
+                    },
+                    {
+                        "name": "Somerville Station",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "include_stony_point"
+                        ]
+                    },
+                    {
+                        "name": "Tyabb Station",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "include_stony_point"
+                        ]
+                    },
+                    {
+                        "name": "Hastings Station",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "include_stony_point"
+                        ]
+                    },
+                    {
+                        "name": "Bittern Station",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "include_stony_point"
+                        ]
+                    },
+                    {
+                        "name": "Morradoo Station",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "include_stony_point"
+                        ]
+                    },
+                    {
+                        "name": "Crib Point Station",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "include_stony_point"
+                        ]
+                    },
+                    {
+                        "name": "Stony Point Station",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "include_stony_point"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 100,
+                        "y": 50
+                    }
+                ]
+            }
+        ]
+    }
+]

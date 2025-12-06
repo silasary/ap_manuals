@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Geelong Line",
+        "children": [
+            {
+                "name": "Geelong",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Tarniet Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wyndham Vale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Little River Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lara Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Corio Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "North Shore Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "North Geelong Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Geelong Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 225,
+                        "y": 50
+                    }
+                ]
+            }
+        ]
+    }
+]

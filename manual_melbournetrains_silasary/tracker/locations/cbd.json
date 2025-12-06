@@ -1,0 +1,107 @@
+[
+    {
+        "name": "CBD",
+        "children": [
+            {
+                "name": "Southern Cross",
+                "access_rules": [
+                    "southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Southern Cross Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 325,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Flinders Street",
+                "access_rules": [
+                    "southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Flinders Street Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 350,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "City Loop",
+                "access_rules": [
+                    "city_loop_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Flagstaff Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Melbourne Central Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Parliament Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 375,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Metro Tunnel",
+                "access_rules": [
+                    "metro_tunnel_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Anzac Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Town Hall Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "State Library Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Parkville Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Arden Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 400,
+                        "y": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

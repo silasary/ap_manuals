@@ -1,0 +1,349 @@
+[
+    {
+        "name": "Lilydale, Belgrave, Alamein and Glen Waverley Lines",
+        "children": [
+            {
+                "name": "South Yarra",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Richmond Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 100,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Burnley",
+                "access_rules": [
+                    "burnley_access, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "East Richmond Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Burnley Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 125,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Camberwell",
+                "access_rules": [
+                    "burnley_access, progressive_lilydale_belgrave_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Hawthorn Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Glenferrie Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Auburn Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Camberwell Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 150,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Box Hill",
+                "access_rules": [
+                    "burnley_access, progressive_lilydale_belgrave_access:1, progressive_lilydale_belgrave_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "East Camberwell Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Canterbury Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chatham Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Union Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Box Hill Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 175,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Ringwood",
+                "access_rules": [
+                    "burnley_access, progressive_lilydale_belgrave_access:1, progressive_lilydale_belgrave_access:2, progressive_lilydale_belgrave_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Laburnum Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blackburn Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nunawading Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mitcham Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heatherdale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ringwood Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 200,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Lilydale",
+                "access_rules": [
+                    "burnley_access, progressive_lilydale_belgrave_access:1, progressive_lilydale_belgrave_access:2, progressive_lilydale_belgrave_access:3, progressive_lilydale_belgrave_access:4, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Ringwood East Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Croydon Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mooroolbark Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lilydale Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 225,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Belgrave",
+                "access_rules": [
+                    "burnley_access, progressive_lilydale_belgrave_access:1, progressive_lilydale_belgrave_access:2, progressive_lilydale_belgrave_access:3, progressive_lilydale_belgrave_access:5, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Heathmont Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bayswater Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Boronia Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ferntree Gully Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Upper Ferntree Gully Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Upwey Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tecoma Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Belgrave Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 250,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Alamein",
+                "access_rules": [
+                    "alamein_access, burnley_access, progressive_lilydale_belgrave_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Riversdale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Willison Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hartwell Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Burwood Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ashburton Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Alamein Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 275,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Darling",
+                "access_rules": [
+                    "burnley_access, progressive_glen_waverley_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Heyington Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Kooyong Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tooronga Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gardiner Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Glen Iris Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Darling Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 300,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Glen Waverley",
+                "access_rules": [
+                    "burnley_access, progressive_glen_waverley_access:1, progressive_glen_waverley_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "East Malvern Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Holmesglen Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Jordanville Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mount Waverley Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Syndal Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Glen Waverley Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 325,
+                        "y": 25
+                    }
+                ]
+            }
+        ]
+    }
+]

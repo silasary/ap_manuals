@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Hurstbridge Line",
+        "children": [
+            {
+                "name": "Heidelberg",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Westgarth Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dennis Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fairfield Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Alphington Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Darebin Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ivanhoe Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Eaglemont Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heidelberg Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 25,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Eltham",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Rosanna Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Macleod Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Watsonia Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Greensborough Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Montmorency Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Eltham Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 50,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "Hurstbridge",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, progressive_hurstbridge_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Diamond Creek Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wattle Glen Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hurstbridge Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 75,
+                        "y": 25
+                    }
+                ]
+            }
+        ]
+    }
+]

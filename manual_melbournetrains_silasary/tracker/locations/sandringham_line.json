@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Sandringham Line",
+        "children": [
+            {
+                "name": "Sandringham",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Prahran Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Windsor Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Balaclava Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ripponlea Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elsternwick Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gardenvale Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "North Brighton Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle Brighton Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Brighton Beach Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hampton Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sandringham Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 125,
+                        "y": 50
+                    }
+                ]
+            }
+        ]
+    }
+]

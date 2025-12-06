@@ -1,0 +1,15 @@
+{
+    "name": "MelbourneTrains for Archipelago (Manual)",
+    "game_name": "Manual_MelbourneTrains_silasary",
+    "package_version": "1.0.0",
+    "package_uid": "Manual_MelbourneTrains_silasary",
+    "variants": {
+        "tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap",
+                "apmanual"
+            ]
+        }
+    }
+}

@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Mernda Line",
+        "children": [
+            {
+                "name": "Clifton Hill",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Jolimont Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "West Richmond Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "North Richmond Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Collingwood Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Victoria Park Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Clifton Hill Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 425,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Preston",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Rushall Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Merri Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Northcote Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Croxton Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thornbury Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bell Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Preston Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 450,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Epping",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Regent Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Reservoir Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ruthven Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Keon Park Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thomastown Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lalor Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Epping Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 475,
+                        "y": 0
+                    }
+                ]
+            },
+            {
+                "name": "Mernda",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, progressive_mernda_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "South Morang Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle Gorge Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hawkstowe Station",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mernda Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 0,
+                        "y": 25
+                    }
+                ]
+            }
+        ]
+    }
+]

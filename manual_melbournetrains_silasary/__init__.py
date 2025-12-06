@@ -70,6 +70,26 @@ class ManualWorld(World):
     # UT (the universal-est of trackers) can now generate without a YAML
     ut_can_gen_without_yaml = False  # Temporary disable until we fix the bugs with it
 
+    tracker_world = {
+        "map_page_folder": "tracker",
+        "map_page_maps": "maps/maps.json",
+        "map_page_locations": [
+            'locations/ballarat_line.json',
+            'locations/cbd.json',
+            'locations/craigieburn_line.json',
+            'locations/frankston_line.json',
+            'locations/geelong_line.json',
+            'locations/hurstbridge_line.json',
+            'locations/lilydale,_belgrave,_alamein_and_glen_waverley_lines.json',
+            'locations/mernda_line.json',
+            'locations/pakenham_and_cranbourne_lines.json',
+            'locations/sandringham_line.json',
+            'locations/sunbury_line.json',
+            'locations/upfield_line.json',
+            'locations/werribee_and_williamstown_lines.json',
+        ],
+    }
+
     def get_filler_item_name(self) -> str:
         return hook_get_filler_item_name(self, self.multiworld, self.player) or self.filler_item_name
 

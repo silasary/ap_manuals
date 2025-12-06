@@ -1,0 +1,215 @@
+[
+    {
+        "name": "Newport Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/newport_access.png",
+        "codes": "newport_access"
+    },
+    {
+        "name": "Williamstown Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/williamstown_access.png",
+        "codes": "williamstown_access"
+    },
+    {
+        "name": "Altona Loop Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/altona_loop_access.png",
+        "codes": "altona_loop_access"
+    },
+    {
+        "name": "Werribee Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/werribee_access.png",
+        "codes": "werribee_access"
+    },
+    {
+        "name": "North Melbourne and Footscray Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/north_melbourne_and_footscray_access.png",
+        "codes": "north_melbourne_and_footscray_access"
+    },
+    {
+        "name": "Progressive Sunbury Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_sunbury_access.png",
+        "codes": "progressive_sunbury_access",
+        "min_quantity": 0,
+        "max_quantity": 3
+    },
+    {
+        "name": "Progressive Craigieburn Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_craigieburn_access.png",
+        "codes": "progressive_craigieburn_access",
+        "min_quantity": 0,
+        "max_quantity": 3
+    },
+    {
+        "name": "Progressive Upfield Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_upfield_access.png",
+        "codes": "progressive_upfield_access",
+        "min_quantity": 0,
+        "max_quantity": 2
+    },
+    {
+        "name": "Southern Cross and Flinders Street Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/southern_cross_and_flinders_street_access.png",
+        "codes": "southern_cross_and_flinders_street_access"
+    },
+    {
+        "name": "City Loop Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/city_loop_access.png",
+        "codes": "city_loop_access"
+    },
+    {
+        "name": "Clifton Hill Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/clifton_hill_access.png",
+        "codes": "clifton_hill_access"
+    },
+    {
+        "name": "Progressive Mernda Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_mernda_access.png",
+        "codes": "progressive_mernda_access",
+        "min_quantity": 0,
+        "max_quantity": 3
+    },
+    {
+        "name": "Progressive Hurstbridge Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_hurstbridge_access.png",
+        "codes": "progressive_hurstbridge_access",
+        "min_quantity": 0,
+        "max_quantity": 3
+    },
+    {
+        "name": "Richmond and South Yarra Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/richmond_and_south_yarra_access.png",
+        "codes": "richmond_and_south_yarra_access"
+    },
+    {
+        "name": "Burnley Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/burnley_access.png",
+        "codes": "burnley_access"
+    },
+    {
+        "name": "Progressive Lilydale/Belgrave Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_lilydale_belgrave_access.png",
+        "codes": "progressive_lilydale_belgrave_access",
+        "min_quantity": 0,
+        "max_quantity": 5
+    },
+    {
+        "name": "Alamein Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/alamein_access.png",
+        "codes": "alamein_access"
+    },
+    {
+        "name": "Progressive Glen Waverley Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_glen_waverley_access.png",
+        "codes": "progressive_glen_waverley_access",
+        "min_quantity": 0,
+        "max_quantity": 2
+    },
+    {
+        "name": "Caulfield Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/caulfield_access.png",
+        "codes": "caulfield_access"
+    },
+    {
+        "name": "Progressive Pakenham/Cranbourne Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_pakenham_cranbourne_access.png",
+        "codes": "progressive_pakenham_cranbourne_access",
+        "min_quantity": 0,
+        "max_quantity": 5
+    },
+    {
+        "name": "Progressive Frankston Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_frankston_access.png",
+        "codes": "progressive_frankston_access",
+        "min_quantity": 0,
+        "max_quantity": 3
+    },
+    {
+        "name": "Stony Point Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/stony_point_access.png",
+        "codes": "stony_point_access"
+    },
+    {
+        "name": "Sandringham Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/sandringham_access.png",
+        "codes": "sandringham_access"
+    },
+    {
+        "name": "Progressive Waurn Ponds Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_waurn_ponds_access.png",
+        "codes": "progressive_waurn_ponds_access",
+        "min_quantity": 0,
+        "max_quantity": 4
+    },
+    {
+        "name": "Progressive Ballarat Access",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/progressive_ballarat_access.png",
+        "codes": "progressive_ballarat_access",
+        "min_quantity": 0,
+        "max_quantity": 3
+    },
+    {
+        "name": "Metro Tunnel Access",
+        "type": "toggle",
+        "loop": "true",
+        "img": "images/items/metro_tunnel_access.png",
+        "codes": "metro_tunnel_access"
+    },
+    {
+        "name": "Bounty",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/bounty.png",
+        "codes": "bounty",
+        "min_quantity": 0,
+        "max_quantity": 30
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "include_stony_point",
+        "type": "toggle",
+        "img": "images/options/include_stony_point.png",
+        "loop": true,
+        "codes": "include_stony_point"
+    },
+    {
+        "name": "include_stony_point",
+        "loop": true,
+        "codes": "include_stony_point",
+        "type": "toggle",
+        "img": "images/options/include_stony_point.png"
+    }
+]
