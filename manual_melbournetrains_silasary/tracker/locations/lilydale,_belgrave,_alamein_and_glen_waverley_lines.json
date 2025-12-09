@@ -3,6 +3,26 @@
         "name": "Lilydale, Belgrave, Alamein and Glen Waverley Lines",
         "children": [
             {
+                "name": "Richmond Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Richmond Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2411,
+                        "y": 1796,
+                        "size": 24
+                    }
+                ]
+            },
+            {
                 "name": "Burnley",
                 "access_rules": [
                     "burnley_access, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"

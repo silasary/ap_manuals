@@ -66,8 +66,7 @@
         "type": "toggle",
         "loop": "true",
         "img": "images/items/southern_cross_and_flinders_street_access.png",
-        "codes": "southern_cross_and_flinders_street_access",
-        "initial_active_state": true
+        "codes": "southern_cross_and_flinders_street_access"
     },
     {
         "name": "City Loop Access",
