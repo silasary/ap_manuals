@@ -3,25 +3,6 @@
         "name": "Lilydale, Belgrave, Alamein and Glen Waverley Lines",
         "children": [
             {
-                "name": "South Yarra",
-                "access_rules": [
-                    "richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
-                ],
-                "sections": [
-                    {
-                        "name": "Richmond Station",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "main_map",
-                        "x": 100,
-                        "y": 25
-                    }
-                ]
-            },
-            {
                 "name": "Burnley",
                 "access_rules": [
                     "burnley_access, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access"
@@ -39,8 +20,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 125,
-                        "y": 25
+                        "x": 2709,
+                        "y": 1804,
+                        "size": 24
                     }
                 ]
             },
@@ -70,8 +52,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 150,
-                        "y": 25
+                        "x": 2967,
+                        "y": 1601,
+                        "size": 24
                     }
                 ]
             },
@@ -105,8 +88,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 175,
-                        "y": 25
+                        "x": 3289,
+                        "y": 1282,
+                        "size": 24
                     }
                 ]
             },
@@ -144,8 +128,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 200,
-                        "y": 25
+                        "x": 3878,
+                        "y": 1177,
+                        "size": 24
                     }
                 ]
             },
@@ -175,8 +160,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 225,
-                        "y": 25
+                        "x": 4331,
+                        "y": 1177,
+                        "size": 24
                     }
                 ]
             },
@@ -222,8 +208,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 250,
-                        "y": 25
+                        "x": 4314,
+                        "y": 1562,
+                        "size": 24
                     }
                 ]
             },
@@ -261,8 +248,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 275,
-                        "y": 25
+                        "x": 3449,
+                        "y": 1868,
+                        "size": 24
                     }
                 ]
             },
@@ -300,8 +288,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 300,
-                        "y": 25
+                        "x": 3123,
+                        "y": 2105,
+                        "size": 24
                     }
                 ]
             },
@@ -339,8 +328,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 325,
-                        "y": 25
+                        "x": 3699,
+                        "y": 2105,
+                        "size": 24
                     }
                 ]
             }

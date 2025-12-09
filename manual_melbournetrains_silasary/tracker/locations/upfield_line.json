@@ -44,8 +44,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 275,
-                        "y": 0
+                        "x": 2158,
+                        "y": 874,
+                        "size": 24
                     }
                 ]
             },
@@ -79,8 +80,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 300,
-                        "y": 0
+                        "x": 2158,
+                        "y": 610,
+                        "size": 24
                     }
                 ]
             }

@@ -32,8 +32,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 200,
-                        "y": 0
+                        "x": 1698,
+                        "y": 978,
+                        "size": 24
                     }
                 ]
             },
@@ -75,8 +76,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 225,
-                        "y": 0
+                        "x": 1698,
+                        "y": 607,
+                        "size": 24
                     }
                 ]
             },
@@ -102,8 +104,9 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 250,
-                        "y": 0
+                        "x": 1698,
+                        "y": 449,
+                        "size": 24
                     }
                 ]
             }
