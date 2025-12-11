@@ -1,6 +1,6 @@
 import logging
 import os
-from typing import Callable, Optional, Counter, Any
+from typing import Callable, Optional, ClassVar, Counter, Any
 import webbrowser
 
 import Utils
@@ -26,19 +26,19 @@ from Options import PerGameCommonOptions
 from worlds.AutoWorld import World
 
 from .hooks.World import \
-    before_generate_early, hook_get_filler_item_name, before_create_regions, after_create_regions, \
+    hook_get_filler_item_name, before_create_regions, after_create_regions, \
     before_create_items_all, before_create_items_starting, before_create_items_filler, after_create_items, \
     before_create_item, after_create_item, \
     before_set_rules, after_set_rules, \
     before_generate_basic, after_generate_basic, \
     before_fill_slot_data, after_fill_slot_data, before_write_spoiler, \
     before_extend_hint_information, after_extend_hint_information, \
-    after_collect_item, after_remove_item
+    after_collect_item, after_remove_item, before_generate_early
 from .hooks.Data import hook_interpret_slot_data
 
 class ManualWorld(World):
     __doc__ = world_description
-    game: str = game_name
+    game: ClassVar[str] = game_name
     web = world_webworld
 
     options_dataclass = manual_options_data
@@ -68,7 +68,6 @@ class ManualWorld(World):
     victory_names = victory_names
 
     # UT (the universal-est of trackers) can now generate without a YAML
-    ut_can_gen_without_yaml = False  # Temporary disable until we fix the bugs with it
 
     tracker_world = {
         "map_page_folder": "tracker",
@@ -89,22 +88,17 @@ class ManualWorld(World):
             'locations/werribee_and_williamstown_lines.json',
         ],
     }
+    ut_can_gen_without_yaml = True
 
     def get_filler_item_name(self) -> str:
         return hook_get_filler_item_name(self, self.multiworld, self.player) or self.filler_item_name
 
-    def interpret_slot_data(self, slot_data: dict[str, Any]):
+    def interpret_slot_data(self, slot_data: dict[str, Any]) -> dict[str, Any]:
         #this is called by tools like UT
         if not slot_data:
-            return False
+            return {}
 
-        regen = False
-        for key, value in slot_data.items():
-            if key in self.options_dataclass.type_hints:
-                getattr(self.options, key).value = value
-                regen = True
-
-        regen = hook_interpret_slot_data(self, self.player, slot_data) or regen
+        regen = hook_interpret_slot_data(self, self.player, slot_data) or slot_data
         return regen
 
     @classmethod
@@ -113,7 +107,12 @@ class ManualWorld(World):
 
     def generate_early(self) -> None:
         before_generate_early(self, self.multiworld, self.player)
-
+        if hasattr(self.multiworld, "re_gen_passthrough"):
+            slot_data = self.multiworld.re_gen_passthrough.get(self.game, {})
+            if slot_data:
+                for key, value in slot_data.items():
+                    if hasattr(self.options, key):
+                        getattr(self.options, key).value = value
 
     def create_regions(self):
         before_create_regions(self, self.multiworld, self.player)
