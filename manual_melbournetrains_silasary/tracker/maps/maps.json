@@ -2,6 +2,24 @@
     {
         "name": "main_map",
         "img": "images/maps/main_map.png",
+        "location_size": 24,
+        "location_border_thickness": 1
+    },
+    {
+        "name": "northern_group",
+        "img": "images/maps/northern_group.png",
+        "location_size": 10,
+        "location_border_thickness": 1
+    },
+    {
+        "name": "burnley_group",
+        "img": "images/maps/burnley_group.png",
+        "location_size": 10,
+        "location_border_thickness": 1
+    },
+    {
+        "name": "clifton_hill_group",
+        "img": "images/maps/clifton_hill_group.png",
         "location_size": 10,
         "location_border_thickness": 1
     }
