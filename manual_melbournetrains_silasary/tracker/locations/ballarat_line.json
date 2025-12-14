@@ -3,20 +3,25 @@
         "name": "Ballarat Line",
         "children": [
             {
-                "name": "Deer Park",
+                "name": "Ardeer Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
                     "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
                 ],
-                "sections": [
+                "map_locations": [
                     {
-                        "name": "Ardeer Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Deer Park Station",
-                        "item_count": 1
+                        "map": "main_map",
+                        "x": 1946,
+                        "y": 1348,
+                        "size": 24
                     }
+                ]
+            },
+            {
+                "name": "Deer Park",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
                 ],
                 "map_locations": [
                     {
@@ -28,28 +33,55 @@
                 ]
             },
             {
-                "name": "Melton",
+                "name": "Caroline Springs Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
                     "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
                 ],
-                "sections": [
+                "map_locations": [
                     {
-                        "name": "Caroline Springs Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Rockbank Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Cobblebank Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Melton Station",
-                        "item_count": 1
+                        "map": "main_map",
+                        "x": 749,
+                        "y": 1268,
+                        "size": 24
                     }
+                ]
+            },
+            {
+                "name": "Rockbank Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 700,
+                        "y": 1190,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Cobblebank Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 653,
+                        "y": 1142,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Melton",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
                 ],
                 "map_locations": [
                     {
@@ -61,24 +93,40 @@
                 ]
             },
             {
-                "name": "Ballarat",
+                "name": "Bacchus Marsh Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
                     "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
                 ],
-                "sections": [
+                "map_locations": [
                     {
-                        "name": "Bacchus Marsh Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Ballan Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Ballarat Station",
-                        "item_count": 1
+                        "map": "main_map",
+                        "x": 555,
+                        "y": 1045,
+                        "size": 24
                     }
+                ]
+            },
+            {
+                "name": "Ballam",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 508,
+                        "y": 996,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Ballarat",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
                 ],
                 "map_locations": [
                     {

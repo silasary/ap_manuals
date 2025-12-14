@@ -10,6 +10,15 @@
                         "main_map"
                     ]
                 }
+            },
+            {
+                "title": "cragieburn_line_map",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "cragieburn_line_map"
+                    ]
+                }
             }
         ]
     }
