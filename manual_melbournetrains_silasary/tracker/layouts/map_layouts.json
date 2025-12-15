@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "main_map",
+                "title": "Full Network",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -12,11 +12,29 @@
                 }
             },
             {
-                "title": "cragieburn_line_map",
+                "title": "Northern Group",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "cragieburn_line_map"
+                        "northern_group"
+                    ]
+                }
+            },
+            {
+                "title": "Burnley Group",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "burnley_group"
+                    ]
+                }
+            },
+            {
+                "title": "Clifton Hill Group",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "clifton_hill_group"
                     ]
                 }
             }
