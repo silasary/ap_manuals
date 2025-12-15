@@ -1,1 +1,345 @@
-[{"name": "Upfield Line", "children": [[{"name": "Macaulay Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Macaulay Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 874, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Flemington Bridge Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Flemington Bridge Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 874, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Royal Park Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Royal Park Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 874, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Jewell Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Jewell Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 874, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Brunswick Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Brunswick Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 874, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Anstey Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Anstey Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 874, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Moreland Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Moreland Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 874, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Coburg Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Coburg Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 874, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Batman Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Batman Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 610, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Merlynston Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Merlynston Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 610, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Fawkner Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Fawkner Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 610, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Gowrie Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Gowrie Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 610, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Upfield Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Upfield Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2158, "y": 610, "size": 24}, {"map": "upfield_line_map", "x": 12, "y": 12, "size": 24}]}]]}]
+[
+    {
+        "name": "Upfield Line",
+        "children": [
+            {
+                "name": "Macaulay Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Macaulay Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 874,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Flemington Bridge Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Flemington Bridge Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 874,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Royal Park Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Royal Park Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 874,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Jewell Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Jewell Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 874,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Brunswick Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Brunswick Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 874,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Anstey Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Anstey Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 874,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Moreland Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Moreland Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 874,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Coburg Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Coburg Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 874,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Batman Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Batman Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 610,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Merlynston Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Merlynston Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 610,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Fawkner Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Fawkner Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 610,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Gowrie Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Gowrie Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 610,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Upfield Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_upfield_access:1, progressive_upfield_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Upfield Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2158,
+                        "y": 610,
+                        "size": 24
+                    },
+                    {
+                        "map": "upfield_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

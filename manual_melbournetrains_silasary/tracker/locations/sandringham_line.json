@@ -1,1 +1,293 @@
-[{"name": "Sandringham Line", "children": [[{"name": "Prahran Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Prahran Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Windsor Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Windsor Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Balaclava Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Balaclava Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Ripponlea Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Ripponlea Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Elsternwick Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Elsternwick Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Gardenvale Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Gardenvale Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "North Brighton Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "North Brighton Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Middle Brighton Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Middle Brighton Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Brighton Beach Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Brighton Beach Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Hampton Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Hampton Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Sandringham Station", "access_rules": ["richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"], "sections": [{"name": "Sandringham Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 2389, "y": 2566, "size": 24}, {"map": "sandringham_line_map", "x": 12, "y": 12, "size": 24}]}]]}]
+[
+    {
+        "name": "Sandringham Line",
+        "children": [
+            {
+                "name": "Prahran Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Prahran Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Windsor Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Windsor Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Balaclava Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Balaclava Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Ripponlea Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Ripponlea Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Elsternwick Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Elsternwick Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Gardenvale Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Gardenvale Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "North Brighton Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "North Brighton Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Middle Brighton Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Middle Brighton Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Brighton Beach Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Brighton Beach Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Hampton Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Hampton Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Sandringham Station",
+                "access_rules": [
+                    "richmond_and_south_yarra_access, sandringham_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Sandringham Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2389,
+                        "y": 2566,
+                        "size": 24
+                    },
+                    {
+                        "map": "sandringham_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

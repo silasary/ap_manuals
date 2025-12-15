@@ -7,6 +7,12 @@
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, southern_cross_and_flinders_street_access"
                 ],
+                "sections": [
+                    {
+                        "name": "Kensington Station",
+                        "item_count": 1
+                    }
+                ],
                 "map_locations": [
                     {
                         "map": "main_map",
@@ -26,6 +32,12 @@
                 "name": "Newmarket Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Newmarket Station",
+                        "item_count": 1
+                    }
                 ],
                 "map_locations": [
                     {
@@ -47,6 +59,12 @@
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, southern_cross_and_flinders_street_access"
                 ],
+                "sections": [
+                    {
+                        "name": "Ascot Vale Station",
+                        "item_count": 1
+                    }
+                ],
                 "map_locations": [
                     {
                         "map": "main_map",
@@ -66,6 +84,12 @@
                 "name": "Moonee Ponds Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Moonee Ponds Station",
+                        "item_count": 1
+                    }
                 ],
                 "map_locations": [
                     {
@@ -87,6 +111,12 @@
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, southern_cross_and_flinders_street_access"
                 ],
+                "sections": [
+                    {
+                        "name": "Essendon Station",
+                        "item_count": 1
+                    }
+                ],
                 "map_locations": [
                     {
                         "map": "main_map",
@@ -106,6 +136,12 @@
                 "name": "Glenbervie Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Glenbervie Station",
+                        "item_count": 1
+                    }
                 ],
                 "map_locations": [
                     {
@@ -127,6 +163,12 @@
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, southern_cross_and_flinders_street_access"
                 ],
+                "sections": [
+                    {
+                        "name": "Strathmore Station",
+                        "item_count": 1
+                    }
+                ],
                 "map_locations": [
                     {
                         "map": "main_map",
@@ -146,6 +188,12 @@
                 "name": "Pascoe Vale Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Pascoe Vale Station",
+                        "item_count": 1
+                    }
                 ],
                 "map_locations": [
                     {
@@ -167,6 +215,12 @@
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, southern_cross_and_flinders_street_access"
                 ],
+                "sections": [
+                    {
+                        "name": "Oak Park Station",
+                        "item_count": 1
+                    }
+                ],
                 "map_locations": [
                     {
                         "map": "main_map",
@@ -186,6 +240,12 @@
                 "name": "Glenroy Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Glenroy Station",
+                        "item_count": 1
+                    }
                 ],
                 "map_locations": [
                     {
@@ -207,6 +267,12 @@
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, southern_cross_and_flinders_street_access"
                 ],
+                "sections": [
+                    {
+                        "name": "Jacana Station",
+                        "item_count": 1
+                    }
+                ],
                 "map_locations": [
                     {
                         "map": "main_map",
@@ -226,6 +292,12 @@
                 "name": "Broadmeadows Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Broadmeadows Station",
+                        "item_count": 1
+                    }
                 ],
                 "map_locations": [
                     {
@@ -247,6 +319,12 @@
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, progressive_craigieburn_access:3, southern_cross_and_flinders_street_access"
                 ],
+                "sections": [
+                    {
+                        "name": "Coolaroo Station",
+                        "item_count": 1
+                    }
+                ],
                 "map_locations": [
                     {
                         "map": "main_map",
@@ -267,6 +345,12 @@
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, progressive_craigieburn_access:3, southern_cross_and_flinders_street_access"
                 ],
+                "sections": [
+                    {
+                        "name": "Roxburgh Park Station",
+                        "item_count": 1
+                    }
+                ],
                 "map_locations": [
                     {
                         "map": "main_map",
@@ -286,6 +370,12 @@
                 "name": "Craigieburn Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_craigieburn_access:1, progressive_craigieburn_access:2, progressive_craigieburn_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Craigieburn Station",
+                        "item_count": 1
+                    }
                 ],
                 "map_locations": [
                     {

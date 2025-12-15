@@ -1,1 +1,293 @@
-[{"name": "Sunbury Line", "children": [[{"name": "Middle Footscray Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Middle Footscray Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1119, "y": 1319, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "West Footscray Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "West Footscray Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1119, "y": 1319, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Tottenham Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Tottenham Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1119, "y": 1319, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Sunshine Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Sunshine Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1119, "y": 1319, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Albion Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Albion Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1100, "y": 1033, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Ginifer Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Ginifer Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1100, "y": 1033, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "St Albans Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "St Albans Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1100, "y": 1033, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Keilor Plains Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Keilor Plains Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1100, "y": 1033, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Watergardens Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Watergardens Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1100, "y": 1033, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Diggers Rest Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, progressive_sunbury_access:3, southern_cross_and_flinders_street_access"], "sections": [{"name": "Diggers Rest Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1100, "y": 926, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Sunbury Station", "access_rules": ["north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, progressive_sunbury_access:3, southern_cross_and_flinders_street_access"], "sections": [{"name": "Sunbury Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 1100, "y": 926, "size": 24}, {"map": "sunbury_line_map", "x": 12, "y": 12, "size": 24}]}]]}]
+[
+    {
+        "name": "Sunbury Line",
+        "children": [
+            {
+                "name": "Middle Footscray Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Middle Footscray Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1119,
+                        "y": 1319,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "West Footscray Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "West Footscray Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1119,
+                        "y": 1319,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Tottenham Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Tottenham Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1119,
+                        "y": 1319,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Sunshine Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Sunshine Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1119,
+                        "y": 1319,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Albion Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Albion Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1100,
+                        "y": 1033,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Ginifer Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Ginifer Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1100,
+                        "y": 1033,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "St Albans Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "St Albans Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1100,
+                        "y": 1033,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Keilor Plains Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Keilor Plains Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1100,
+                        "y": 1033,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Watergardens Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Watergardens Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1100,
+                        "y": 1033,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Diggers Rest Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, progressive_sunbury_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Diggers Rest Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1100,
+                        "y": 926,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Sunbury Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_sunbury_access:2, progressive_sunbury_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Sunbury Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 1100,
+                        "y": 926,
+                        "size": 24
+                    },
+                    {
+                        "map": "sunbury_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]

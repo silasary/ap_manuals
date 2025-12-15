@@ -1,1 +1,449 @@
-[{"name": "Hurstbridge Line", "children": [[{"name": "Westgarth Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Westgarth Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3125, "y": 986, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Dennis Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Dennis Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3125, "y": 986, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Fairfield Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Fairfield Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3125, "y": 986, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Alphington Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Alphington Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3125, "y": 986, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Darebin Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Darebin Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3125, "y": 986, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Ivanhoe Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Ivanhoe Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3125, "y": 986, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Eaglemont Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Eaglemont Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3125, "y": 986, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Heidelberg Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"], "sections": [{"name": "Heidelberg Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3125, "y": 986, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Rosanna Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Rosanna Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3799, "y": 955, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Macleod Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Macleod Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3799, "y": 955, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Watsonia Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Watsonia Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3799, "y": 955, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Greensborough Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Greensborough Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3799, "y": 955, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Montmorency Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Montmorency Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3799, "y": 955, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Eltham Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"], "sections": [{"name": "Eltham Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 3799, "y": 955, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Diamond Creek Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, progressive_hurstbridge_access:3, southern_cross_and_flinders_street_access"], "sections": [{"name": "Diamond Creek Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 4116, "y": 955, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Wattle Glen Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, progressive_hurstbridge_access:3, southern_cross_and_flinders_street_access"], "sections": [{"name": "Wattle Glen Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 4116, "y": 955, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}], [{"name": "Hurstbridge Station", "access_rules": ["city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, progressive_hurstbridge_access:3, southern_cross_and_flinders_street_access"], "sections": [{"name": "Hurstbridge Station", "item_count": 1}], "map_locations": [{"map": "main_map", "x": 4116, "y": 955, "size": 24}, {"map": "hurstbridge_line_map", "x": 12, "y": 12, "size": 24}]}]]}]
+[
+    {
+        "name": "Hurstbridge Line",
+        "children": [
+            {
+                "name": "Westgarth Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Westgarth Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3125,
+                        "y": 986,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Dennis Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Dennis Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3125,
+                        "y": 986,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Fairfield Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Fairfield Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3125,
+                        "y": 986,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Alphington Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Alphington Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3125,
+                        "y": 986,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Darebin Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Darebin Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3125,
+                        "y": 986,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Ivanhoe Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Ivanhoe Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3125,
+                        "y": 986,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Eaglemont Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Eaglemont Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3125,
+                        "y": 986,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Heidelberg Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Heidelberg Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3125,
+                        "y": 986,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Rosanna Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Rosanna Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3799,
+                        "y": 955,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Macleod Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Macleod Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3799,
+                        "y": 955,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Watsonia Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Watsonia Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3799,
+                        "y": 955,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Greensborough Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Greensborough Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3799,
+                        "y": 955,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Montmorency Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Montmorency Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3799,
+                        "y": 955,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Eltham Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Eltham Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3799,
+                        "y": 955,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Diamond Creek Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, progressive_hurstbridge_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Diamond Creek Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 4116,
+                        "y": 955,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Wattle Glen Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, progressive_hurstbridge_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Wattle Glen Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 4116,
+                        "y": 955,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            },
+            {
+                "name": "Hurstbridge Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_hurstbridge_access:1, progressive_hurstbridge_access:2, progressive_hurstbridge_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Hurstbridge Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 4116,
+                        "y": 955,
+                        "size": 24
+                    },
+                    {
+                        "map": "hurstbridge_line_map",
+                        "x": 12,
+                        "y": 12,
+                        "size": 24
+                    }
+                ]
+            }
+        ]
+    }
+]
