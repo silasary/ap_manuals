@@ -17,14 +17,12 @@
                     {
                         "map": "main_map",
                         "x": 1792,
-                        "y": 1213,
-                        "size": 24
+                        "y": 1213
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 361
                     }
                 ]
             },
@@ -43,14 +41,12 @@
                     {
                         "map": "main_map",
                         "x": 1739,
-                        "y": 1160,
-                        "size": 24
+                        "y": 1160
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 36,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 343
                     }
                 ]
             },
@@ -68,15 +64,13 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 1707,
-                        "y": 1084,
-                        "size": 24
+                        "x": 1698,
+                        "y": 1084
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 60,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 324
                     }
                 ]
             },
@@ -94,15 +88,13 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 1707,
-                        "y": 1213,
-                        "size": 24
+                        "x": 1698,
+                        "y": 1031
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 84,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 305
                     }
                 ]
             },
@@ -120,15 +112,13 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 1707,
-                        "y": 978,
-                        "size": 24
+                        "x": 1698,
+                        "y": 978
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 108,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 286
                     }
                 ]
             },
@@ -147,14 +137,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 872,
-                        "size": 24
+                        "y": 872
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 12,
-                        "y": 36,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 267
                     }
                 ]
             },
@@ -173,14 +161,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 925,
-                        "size": 24
+                        "y": 925
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 36,
-                        "y": 36,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 248
                     }
                 ]
             },
@@ -199,14 +185,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 819,
-                        "size": 24
+                        "y": 819
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 60,
-                        "y": 36,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 230
                     }
                 ]
             },
@@ -225,14 +209,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 766,
-                        "size": 24
+                        "y": 766
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 84,
-                        "y": 36,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 211
                     }
                 ]
             },
@@ -251,14 +233,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 713,
-                        "size": 24
+                        "y": 713
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 108,
-                        "y": 36,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 192
                     }
                 ]
             },
@@ -277,14 +257,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 660,
-                        "size": 24
+                        "y": 660
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 132,
-                        "y": 36,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 173
                     }
                 ]
             },
@@ -303,14 +281,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 607,
-                        "size": 24
+                        "y": 607
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 156,
-                        "y": 36,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 154
                     }
                 ]
             },
@@ -329,14 +305,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 554,
-                        "size": 24
+                        "y": 554
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 12,
-                        "y": 60,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 135
                     }
                 ]
             },
@@ -355,14 +329,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 501,
-                        "size": 24
+                        "y": 501
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 36,
-                        "y": 60,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 116
                     }
                 ]
             },
@@ -381,14 +353,12 @@
                     {
                         "map": "main_map",
                         "x": 1698,
-                        "y": 449,
-                        "size": 24
+                        "y": 449
                     },
                     {
-                        "map": "cragieburn_line_map",
-                        "x": 60,
-                        "y": 60,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 97
                     }
                 ]
             }

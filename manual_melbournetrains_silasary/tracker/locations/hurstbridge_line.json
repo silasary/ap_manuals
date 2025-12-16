@@ -17,14 +17,12 @@
                     {
                         "map": "main_map",
                         "x": 3125,
-                        "y": 986,
-                        "size": 24
+                        "y": 986
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -43,14 +41,12 @@
                     {
                         "map": "main_map",
                         "x": 3125,
-                        "y": 986,
-                        "size": 24
+                        "y": 986
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -69,14 +65,12 @@
                     {
                         "map": "main_map",
                         "x": 3125,
-                        "y": 986,
-                        "size": 24
+                        "y": 986
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -95,14 +89,12 @@
                     {
                         "map": "main_map",
                         "x": 3125,
-                        "y": 986,
-                        "size": 24
+                        "y": 986
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -121,14 +113,12 @@
                     {
                         "map": "main_map",
                         "x": 3125,
-                        "y": 986,
-                        "size": 24
+                        "y": 986
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -147,14 +137,12 @@
                     {
                         "map": "main_map",
                         "x": 3125,
-                        "y": 986,
-                        "size": 24
+                        "y": 986
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -173,14 +161,12 @@
                     {
                         "map": "main_map",
                         "x": 3125,
-                        "y": 986,
-                        "size": 24
+                        "y": 986
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -199,14 +185,12 @@
                     {
                         "map": "main_map",
                         "x": 3125,
-                        "y": 986,
-                        "size": 24
+                        "y": 986
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -225,14 +209,12 @@
                     {
                         "map": "main_map",
                         "x": 3799,
-                        "y": 955,
-                        "size": 24
+                        "y": 955
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -251,14 +233,12 @@
                     {
                         "map": "main_map",
                         "x": 3799,
-                        "y": 955,
-                        "size": 24
+                        "y": 955
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -277,14 +257,12 @@
                     {
                         "map": "main_map",
                         "x": 3799,
-                        "y": 955,
-                        "size": 24
+                        "y": 955
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -303,14 +281,12 @@
                     {
                         "map": "main_map",
                         "x": 3799,
-                        "y": 955,
-                        "size": 24
+                        "y": 955
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -329,14 +305,12 @@
                     {
                         "map": "main_map",
                         "x": 3799,
-                        "y": 955,
-                        "size": 24
+                        "y": 955
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -355,14 +329,12 @@
                     {
                         "map": "main_map",
                         "x": 3799,
-                        "y": 955,
-                        "size": 24
+                        "y": 955
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -381,14 +353,12 @@
                     {
                         "map": "main_map",
                         "x": 4116,
-                        "y": 955,
-                        "size": 24
+                        "y": 955
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -407,14 +377,12 @@
                     {
                         "map": "main_map",
                         "x": 4116,
-                        "y": 955,
-                        "size": 24
+                        "y": 955
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -433,14 +401,12 @@
                     {
                         "map": "main_map",
                         "x": 4116,
-                        "y": 955,
-                        "size": 24
+                        "y": 955
                     },
                     {
                         "map": "hurstbridge_line_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             }

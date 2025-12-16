@@ -17,14 +17,12 @@
                     {
                         "map": "main_map",
                         "x": 2462,
-                        "y": 1859,
-                        "size": 24
+                        "y": 1859
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -44,14 +42,12 @@
                     {
                         "map": "main_map",
                         "x": 2780,
-                        "y": 2147,
-                        "size": 24
+                        "y": 2147
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -71,14 +67,12 @@
                     {
                         "map": "main_map",
                         "x": 2780,
-                        "y": 2147,
-                        "size": 24
+                        "y": 2147
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -98,14 +92,12 @@
                     {
                         "map": "main_map",
                         "x": 2780,
-                        "y": 2147,
-                        "size": 24
+                        "y": 2147
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -125,14 +117,12 @@
                     {
                         "map": "main_map",
                         "x": 2780,
-                        "y": 2147,
-                        "size": 24
+                        "y": 2147
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -152,14 +142,12 @@
                     {
                         "map": "main_map",
                         "x": 2780,
-                        "y": 2147,
-                        "size": 24
+                        "y": 2147
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -179,14 +167,12 @@
                     {
                         "map": "main_map",
                         "x": 3073,
-                        "y": 2426,
-                        "size": 24
+                        "y": 2426
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -206,14 +192,12 @@
                     {
                         "map": "main_map",
                         "x": 3073,
-                        "y": 2426,
-                        "size": 24
+                        "y": 2426
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -233,14 +217,12 @@
                     {
                         "map": "main_map",
                         "x": 3073,
-                        "y": 2426,
-                        "size": 24
+                        "y": 2426
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -260,14 +242,12 @@
                     {
                         "map": "main_map",
                         "x": 3073,
-                        "y": 2426,
-                        "size": 24
+                        "y": 2426
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -287,14 +267,12 @@
                     {
                         "map": "main_map",
                         "x": 3073,
-                        "y": 2426,
-                        "size": 24
+                        "y": 2426
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -314,14 +292,12 @@
                     {
                         "map": "main_map",
                         "x": 3073,
-                        "y": 2426,
-                        "size": 24
+                        "y": 2426
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -341,14 +317,12 @@
                     {
                         "map": "main_map",
                         "x": 3357,
-                        "y": 2711,
-                        "size": 24
+                        "y": 2711
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -368,14 +342,12 @@
                     {
                         "map": "main_map",
                         "x": 3357,
-                        "y": 2711,
-                        "size": 24
+                        "y": 2711
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -395,14 +367,12 @@
                     {
                         "map": "main_map",
                         "x": 3357,
-                        "y": 2711,
-                        "size": 24
+                        "y": 2711
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -422,14 +392,12 @@
                     {
                         "map": "main_map",
                         "x": 3357,
-                        "y": 2711,
-                        "size": 24
+                        "y": 2711
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -449,14 +417,12 @@
                     {
                         "map": "main_map",
                         "x": 3357,
-                        "y": 2711,
-                        "size": 24
+                        "y": 2711
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -476,14 +442,12 @@
                     {
                         "map": "main_map",
                         "x": 3357,
-                        "y": 2711,
-                        "size": 24
+                        "y": 2711
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -503,14 +467,12 @@
                     {
                         "map": "main_map",
                         "x": 3705,
-                        "y": 2777,
-                        "size": 24
+                        "y": 2777
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -530,14 +492,12 @@
                     {
                         "map": "main_map",
                         "x": 3705,
-                        "y": 2777,
-                        "size": 24
+                        "y": 2777
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -557,14 +517,12 @@
                     {
                         "map": "main_map",
                         "x": 3705,
-                        "y": 2777,
-                        "size": 24
+                        "y": 2777
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -584,14 +542,12 @@
                     {
                         "map": "main_map",
                         "x": 4217,
-                        "y": 2777,
-                        "size": 24
+                        "y": 2777
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -611,14 +567,12 @@
                     {
                         "map": "main_map",
                         "x": 4217,
-                        "y": 2777,
-                        "size": 24
+                        "y": 2777
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -638,14 +592,12 @@
                     {
                         "map": "main_map",
                         "x": 4217,
-                        "y": 2777,
-                        "size": 24
+                        "y": 2777
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -665,14 +617,12 @@
                     {
                         "map": "main_map",
                         "x": 4217,
-                        "y": 2777,
-                        "size": 24
+                        "y": 2777
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -692,14 +642,12 @@
                     {
                         "map": "main_map",
                         "x": 4217,
-                        "y": 2777,
-                        "size": 24
+                        "y": 2777
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -719,14 +667,12 @@
                     {
                         "map": "main_map",
                         "x": 3383,
-                        "y": 2914,
-                        "size": 24
+                        "y": 2914
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -746,14 +692,12 @@
                     {
                         "map": "main_map",
                         "x": 3383,
-                        "y": 2914,
-                        "size": 24
+                        "y": 2914
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -773,14 +717,12 @@
                     {
                         "map": "main_map",
                         "x": 3383,
-                        "y": 2914,
-                        "size": 24
+                        "y": 2914
                     },
                     {
                         "map": "pakenham_and_cranbourne_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             }

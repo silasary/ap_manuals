@@ -17,14 +17,12 @@
                     {
                         "map": "main_map",
                         "x": 2411,
-                        "y": 1796,
-                        "size": 24
+                        "y": 1796
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -43,14 +41,12 @@
                     {
                         "map": "main_map",
                         "x": 2709,
-                        "y": 1804,
-                        "size": 24
+                        "y": 1804
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -69,14 +65,12 @@
                     {
                         "map": "main_map",
                         "x": 2709,
-                        "y": 1804,
-                        "size": 24
+                        "y": 1804
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -95,14 +89,12 @@
                     {
                         "map": "main_map",
                         "x": 2967,
-                        "y": 1601,
-                        "size": 24
+                        "y": 1601
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -121,14 +113,12 @@
                     {
                         "map": "main_map",
                         "x": 2967,
-                        "y": 1601,
-                        "size": 24
+                        "y": 1601
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -147,14 +137,12 @@
                     {
                         "map": "main_map",
                         "x": 2967,
-                        "y": 1601,
-                        "size": 24
+                        "y": 1601
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -173,14 +161,12 @@
                     {
                         "map": "main_map",
                         "x": 2967,
-                        "y": 1601,
-                        "size": 24
+                        "y": 1601
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -199,14 +185,12 @@
                     {
                         "map": "main_map",
                         "x": 3289,
-                        "y": 1282,
-                        "size": 24
+                        "y": 1282
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -225,14 +209,12 @@
                     {
                         "map": "main_map",
                         "x": 3289,
-                        "y": 1282,
-                        "size": 24
+                        "y": 1282
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -251,14 +233,12 @@
                     {
                         "map": "main_map",
                         "x": 3289,
-                        "y": 1282,
-                        "size": 24
+                        "y": 1282
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -277,14 +257,12 @@
                     {
                         "map": "main_map",
                         "x": 3289,
-                        "y": 1282,
-                        "size": 24
+                        "y": 1282
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -303,14 +281,12 @@
                     {
                         "map": "main_map",
                         "x": 3289,
-                        "y": 1282,
-                        "size": 24
+                        "y": 1282
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -329,14 +305,12 @@
                     {
                         "map": "main_map",
                         "x": 3878,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -355,14 +329,12 @@
                     {
                         "map": "main_map",
                         "x": 3878,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -381,14 +353,12 @@
                     {
                         "map": "main_map",
                         "x": 3878,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -407,14 +377,12 @@
                     {
                         "map": "main_map",
                         "x": 3878,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -433,14 +401,12 @@
                     {
                         "map": "main_map",
                         "x": 3878,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -459,14 +425,12 @@
                     {
                         "map": "main_map",
                         "x": 3878,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -485,14 +449,12 @@
                     {
                         "map": "main_map",
                         "x": 4331,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -511,14 +473,12 @@
                     {
                         "map": "main_map",
                         "x": 4331,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -537,14 +497,12 @@
                     {
                         "map": "main_map",
                         "x": 4331,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -563,14 +521,12 @@
                     {
                         "map": "main_map",
                         "x": 4331,
-                        "y": 1177,
-                        "size": 24
+                        "y": 1177
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -589,14 +545,12 @@
                     {
                         "map": "main_map",
                         "x": 4314,
-                        "y": 1562,
-                        "size": 24
+                        "y": 1562
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -615,14 +569,12 @@
                     {
                         "map": "main_map",
                         "x": 4314,
-                        "y": 1562,
-                        "size": 24
+                        "y": 1562
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -641,14 +593,12 @@
                     {
                         "map": "main_map",
                         "x": 4314,
-                        "y": 1562,
-                        "size": 24
+                        "y": 1562
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -667,14 +617,12 @@
                     {
                         "map": "main_map",
                         "x": 4314,
-                        "y": 1562,
-                        "size": 24
+                        "y": 1562
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -693,14 +641,12 @@
                     {
                         "map": "main_map",
                         "x": 4314,
-                        "y": 1562,
-                        "size": 24
+                        "y": 1562
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -719,14 +665,12 @@
                     {
                         "map": "main_map",
                         "x": 4314,
-                        "y": 1562,
-                        "size": 24
+                        "y": 1562
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -745,14 +689,12 @@
                     {
                         "map": "main_map",
                         "x": 4314,
-                        "y": 1562,
-                        "size": 24
+                        "y": 1562
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -771,14 +713,12 @@
                     {
                         "map": "main_map",
                         "x": 4314,
-                        "y": 1562,
-                        "size": 24
+                        "y": 1562
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -797,14 +737,12 @@
                     {
                         "map": "main_map",
                         "x": 3449,
-                        "y": 1868,
-                        "size": 24
+                        "y": 1868
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -823,14 +761,12 @@
                     {
                         "map": "main_map",
                         "x": 3449,
-                        "y": 1868,
-                        "size": 24
+                        "y": 1868
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -849,14 +785,12 @@
                     {
                         "map": "main_map",
                         "x": 3449,
-                        "y": 1868,
-                        "size": 24
+                        "y": 1868
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -875,14 +809,12 @@
                     {
                         "map": "main_map",
                         "x": 3449,
-                        "y": 1868,
-                        "size": 24
+                        "y": 1868
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -901,14 +833,12 @@
                     {
                         "map": "main_map",
                         "x": 3449,
-                        "y": 1868,
-                        "size": 24
+                        "y": 1868
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -927,14 +857,12 @@
                     {
                         "map": "main_map",
                         "x": 3449,
-                        "y": 1868,
-                        "size": 24
+                        "y": 1868
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -953,14 +881,12 @@
                     {
                         "map": "main_map",
                         "x": 3123,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -979,14 +905,12 @@
                     {
                         "map": "main_map",
                         "x": 3123,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1005,14 +929,12 @@
                     {
                         "map": "main_map",
                         "x": 3123,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1031,14 +953,12 @@
                     {
                         "map": "main_map",
                         "x": 3123,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1057,14 +977,12 @@
                     {
                         "map": "main_map",
                         "x": 3123,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1083,14 +1001,12 @@
                     {
                         "map": "main_map",
                         "x": 3123,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1109,14 +1025,12 @@
                     {
                         "map": "main_map",
                         "x": 3699,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1135,14 +1049,12 @@
                     {
                         "map": "main_map",
                         "x": 3699,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1161,14 +1073,12 @@
                     {
                         "map": "main_map",
                         "x": 3699,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1187,14 +1097,12 @@
                     {
                         "map": "main_map",
                         "x": 3699,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1213,14 +1121,12 @@
                     {
                         "map": "main_map",
                         "x": 3699,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -1239,14 +1145,12 @@
                     {
                         "map": "main_map",
                         "x": 3699,
-                        "y": 2105,
-                        "size": 24
+                        "y": 2105
                     },
                     {
                         "map": "lilydale,_belgrave,_alamein_and_glen_waverley_lines_map",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             }

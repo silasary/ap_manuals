@@ -17,14 +17,17 @@
                     {
                         "map": "main_map",
                         "x": 1657,
-                        "y": 1338,
-                        "size": 24
+                        "y": 1338
                     },
                     {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 193,
+                        "y": 399
+                    },
+                    {
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 323
                     }
                 ]
             },
@@ -42,15 +45,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 1657,
-                        "y": 1338,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 1807,
+                        "y": 1338
                     }
                 ]
             },
@@ -69,14 +65,12 @@
                     {
                         "map": "main_map",
                         "x": 1657,
-                        "y": 1338,
-                        "size": 24
+                        "y": 1338
                     },
                     {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 304
                     }
                 ]
             },
@@ -94,15 +88,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 1343,
-                        "y": 1610,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 1487,
+                        "y": 1466
                     }
                 ]
             },
@@ -120,15 +107,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 1343,
-                        "y": 1610,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 1439,
+                        "y": 1515
                     }
                 ]
             },
@@ -146,15 +126,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 1343,
-                        "y": 1610,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 1391,
+                        "y": 1562
                     }
                 ]
             },
@@ -173,14 +146,7 @@
                     {
                         "map": "main_map",
                         "x": 1343,
-                        "y": 1610,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 1610
                     }
                 ]
             },
@@ -199,14 +165,7 @@
                     {
                         "map": "main_map",
                         "x": 1273,
-                        "y": 1890,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 1786
                     }
                 ]
             },
@@ -225,14 +184,7 @@
                     {
                         "map": "main_map",
                         "x": 1273,
-                        "y": 1890,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 1840
                     }
                 ]
             },
@@ -251,14 +203,7 @@
                     {
                         "map": "main_map",
                         "x": 1273,
-                        "y": 1890,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 1890
                     }
                 ]
             },
@@ -276,15 +221,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 985,
-                        "y": 1765,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 1158,
+                        "y": 1765
                     }
                 ]
             },
@@ -302,15 +240,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 985,
-                        "y": 1765,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 1070,
+                        "y": 1765
                     }
                 ]
             },
@@ -329,14 +260,12 @@
                     {
                         "map": "main_map",
                         "x": 985,
-                        "y": 1765,
-                        "size": 24
+                        "y": 1765
                     },
                     {
-                        "map": "werribee_and_williamstown_lines_map",
+                        "map": "northern_group",
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     }
                 ]
             },
@@ -354,15 +283,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 670,
-                        "y": 1480,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 861,
+                        "y": 1671
                     }
                 ]
             },
@@ -380,15 +302,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 670,
-                        "y": 1480,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 811,
+                        "y": 1621
                     }
                 ]
             },
@@ -406,15 +321,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 670,
-                        "y": 1480,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 764,
+                        "y": 1574
                     }
                 ]
             },
@@ -432,15 +340,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 670,
-                        "y": 1480,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "x": 716,
+                        "y": 1526
                     }
                 ]
             },
@@ -459,14 +360,7 @@
                     {
                         "map": "main_map",
                         "x": 670,
-                        "y": 1480,
-                        "size": 24
-                    },
-                    {
-                        "map": "werribee_and_williamstown_lines_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 1480
                     }
                 ]
             }

@@ -24,8 +24,7 @@ def convert(filename: str):
         map_coords.append({
                         "map": f'{filename.split(".")[0]}_map',
                         "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 12
                     })
         stations = child["sections"]
         for station in stations:

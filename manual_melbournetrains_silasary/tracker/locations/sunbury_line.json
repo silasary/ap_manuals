@@ -17,14 +17,12 @@
                     {
                         "map": "main_map",
                         "x": 1119,
-                        "y": 1319,
-                        "size": 24
+                        "y": 1319
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 285
                     }
                 ]
             },
@@ -43,14 +41,12 @@
                     {
                         "map": "main_map",
                         "x": 1119,
-                        "y": 1319,
-                        "size": 24
+                        "y": 1319
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 266
                     }
                 ]
             },
@@ -69,14 +65,12 @@
                     {
                         "map": "main_map",
                         "x": 1119,
-                        "y": 1319,
-                        "size": 24
+                        "y": 1319
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 247
                     }
                 ]
             },
@@ -95,14 +89,12 @@
                     {
                         "map": "main_map",
                         "x": 1119,
-                        "y": 1319,
-                        "size": 24
+                        "y": 1319
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 228
                     }
                 ]
             },
@@ -121,14 +113,12 @@
                     {
                         "map": "main_map",
                         "x": 1100,
-                        "y": 1033,
-                        "size": 24
+                        "y": 1033
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 209
                     }
                 ]
             },
@@ -147,14 +137,12 @@
                     {
                         "map": "main_map",
                         "x": 1100,
-                        "y": 1033,
-                        "size": 24
+                        "y": 1033
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 190
                     }
                 ]
             },
@@ -173,14 +161,12 @@
                     {
                         "map": "main_map",
                         "x": 1100,
-                        "y": 1033,
-                        "size": 24
+                        "y": 1033
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 172
                     }
                 ]
             },
@@ -199,14 +185,12 @@
                     {
                         "map": "main_map",
                         "x": 1100,
-                        "y": 1033,
-                        "size": 24
+                        "y": 1033
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 153
                     }
                 ]
             },
@@ -225,14 +209,12 @@
                     {
                         "map": "main_map",
                         "x": 1100,
-                        "y": 1033,
-                        "size": 24
+                        "y": 1033
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 134
                     }
                 ]
             },
@@ -251,14 +233,12 @@
                     {
                         "map": "main_map",
                         "x": 1100,
-                        "y": 926,
-                        "size": 24
+                        "y": 980
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 115
                     }
                 ]
             },
@@ -277,14 +257,12 @@
                     {
                         "map": "main_map",
                         "x": 1100,
-                        "y": 926,
-                        "size": 24
+                        "y": 926
                     },
                     {
-                        "map": "sunbury_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 609,
+                        "y": 97
                     }
                 ]
             }

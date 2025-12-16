@@ -17,14 +17,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874,
-                        "size": 24
+                        "y": 874
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 361
                     }
                 ]
             },
@@ -43,14 +41,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874,
-                        "size": 24
+                        "y": 874
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 343
                     }
                 ]
             },
@@ -69,14 +65,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874,
-                        "size": 24
+                        "y": 874
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 324
                     }
                 ]
             },
@@ -95,14 +89,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874,
-                        "size": 24
+                        "y": 874
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 305
                     }
                 ]
             },
@@ -121,14 +113,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874,
-                        "size": 24
+                        "y": 874
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 285
                     }
                 ]
             },
@@ -147,14 +137,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874,
-                        "size": 24
+                        "y": 874
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 267
                     }
                 ]
             },
@@ -173,14 +161,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874,
-                        "size": 24
+                        "y": 874
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 248
                     }
                 ]
             },
@@ -199,14 +185,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874,
-                        "size": 24
+                        "y": 874
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 230
                     }
                 ]
             },
@@ -225,14 +209,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 610,
-                        "size": 24
+                        "y": 610
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 211
                     }
                 ]
             },
@@ -251,14 +233,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 610,
-                        "size": 24
+                        "y": 610
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 192
                     }
                 ]
             },
@@ -277,14 +257,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 610,
-                        "size": 24
+                        "y": 610
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 173
                     }
                 ]
             },
@@ -303,14 +281,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 610,
-                        "size": 24
+                        "y": 610
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 154
                     }
                 ]
             },
@@ -329,14 +305,12 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 610,
-                        "size": 24
+                        "y": 610
                     },
                     {
-                        "map": "upfield_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 135
                     }
                 ]
             }

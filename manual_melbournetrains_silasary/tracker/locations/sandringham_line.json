@@ -17,14 +17,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2037
                     }
                 ]
             },
@@ -43,14 +36,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2090
                     }
                 ]
             },
@@ -69,14 +55,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2143
                     }
                 ]
             },
@@ -95,14 +74,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2197
                     }
                 ]
             },
@@ -121,14 +93,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2250
                     }
                 ]
             },
@@ -147,14 +112,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2303
                     }
                 ]
             },
@@ -173,14 +131,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2355
                     }
                 ]
             },
@@ -199,14 +150,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2409
                     }
                 ]
             },
@@ -225,14 +169,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2462
                     }
                 ]
             },
@@ -251,14 +188,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2515
                     }
                 ]
             },
@@ -277,14 +207,7 @@
                     {
                         "map": "main_map",
                         "x": 2389,
-                        "y": 2566,
-                        "size": 24
-                    },
-                    {
-                        "map": "sandringham_line_map",
-                        "x": 12,
-                        "y": 12,
-                        "size": 24
+                        "y": 2566
                     }
                 ]
             }
