@@ -16,8 +16,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2730,
-                        "y": 1381
+                        "x": 2492,
+                        "y": 1619
                     },
                     {
                         "map": "mernda_line_map",
@@ -40,8 +40,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2730,
-                        "y": 1381
+                        "x": 2540,
+                        "y": 1571
                     },
                     {
                         "map": "mernda_line_map",
@@ -64,8 +64,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2730,
-                        "y": 1381
+                        "x": 2587,
+                        "y": 1524
                     },
                     {
                         "map": "mernda_line_map",
@@ -88,8 +88,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2730,
-                        "y": 1381
+                        "x": 2636,
+                        "y": 1476
                     },
                     {
                         "map": "mernda_line_map",
@@ -112,8 +112,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2730,
-                        "y": 1381
+                        "x": 2683,
+                        "y": 1429
                     },
                     {
                         "map": "mernda_line_map",
@@ -161,7 +161,7 @@
                     {
                         "map": "main_map",
                         "x": 2759,
-                        "y": 979
+                        "y": 1298
                     },
                     {
                         "map": "mernda_line_map",
@@ -185,7 +185,7 @@
                     {
                         "map": "main_map",
                         "x": 2759,
-                        "y": 979
+                        "y": 1245
                     },
                     {
                         "map": "mernda_line_map",
@@ -209,7 +209,7 @@
                     {
                         "map": "main_map",
                         "x": 2759,
-                        "y": 979
+                        "y": 1191
                     },
                     {
                         "map": "mernda_line_map",
@@ -233,7 +233,7 @@
                     {
                         "map": "main_map",
                         "x": 2759,
-                        "y": 979
+                        "y": 1139
                     },
                     {
                         "map": "mernda_line_map",
@@ -257,7 +257,7 @@
                     {
                         "map": "main_map",
                         "x": 2759,
-                        "y": 979
+                        "y": 1086
                     },
                     {
                         "map": "mernda_line_map",
@@ -281,7 +281,7 @@
                     {
                         "map": "main_map",
                         "x": 2759,
-                        "y": 979
+                        "y": 1033
                     },
                     {
                         "map": "mernda_line_map",
@@ -305,7 +305,7 @@
                     {
                         "map": "main_map",
                         "x": 2759,
-                        "y": 979
+                        "y": 980
                     },
                     {
                         "map": "mernda_line_map",
@@ -328,8 +328,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3232,
-                        "y": 740
+                        "x": 2783,
+                        "y": 917
                     },
                     {
                         "map": "mernda_line_map",
@@ -352,8 +352,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3232,
-                        "y": 740
+                        "x": 2831,
+                        "y": 870
                     },
                     {
                         "map": "mernda_line_map",
@@ -376,8 +376,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3232,
-                        "y": 740
+                        "x": 2879,
+                        "y": 822
                     },
                     {
                         "map": "mernda_line_map",
@@ -400,8 +400,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3232,
-                        "y": 740
+                        "x": 2927,
+                        "y": 774
                     },
                     {
                         "map": "mernda_line_map",
@@ -424,7 +424,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3232,
+                        "x": 3020,
                         "y": 740
                     },
                     {
@@ -448,7 +448,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3232,
+                        "x": 3126,
                         "y": 740
                     },
                     {
@@ -496,7 +496,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3654,
+                        "x": 3338,
                         "y": 740
                     },
                     {
@@ -520,7 +520,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3654,
+                        "x": 3443,
                         "y": 740
                     },
                     {
@@ -544,7 +544,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3654,
+                        "x": 3549,
                         "y": 740
                     },
                     {

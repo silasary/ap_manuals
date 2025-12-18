@@ -16,8 +16,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3125,
-                        "y": 986
+                        "x": 2792,
+                        "y": 1319
                     },
                     {
                         "map": "hurstbridge_line_map",
@@ -40,8 +40,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3125,
-                        "y": 986
+                        "x": 2840,
+                        "y": 1272
                     },
                     {
                         "map": "hurstbridge_line_map",
@@ -64,8 +64,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3125,
-                        "y": 986
+                        "x": 2888,
+                        "y": 1224
                     },
                     {
                         "map": "hurstbridge_line_map",
@@ -88,8 +88,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3125,
-                        "y": 986
+                        "x": 2936,
+                        "y": 1176
                     },
                     {
                         "map": "hurstbridge_line_map",
@@ -112,8 +112,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3125,
-                        "y": 986
+                        "x": 2984,
+                        "y": 1128
                     },
                     {
                         "map": "hurstbridge_line_map",
@@ -136,8 +136,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3125,
-                        "y": 986
+                        "x": 3032,
+                        "y": 1081
                     },
                     {
                         "map": "hurstbridge_line_map",
@@ -160,8 +160,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3125,
-                        "y": 986
+                        "x": 3079,
+                        "y": 1033
                     },
                     {
                         "map": "hurstbridge_line_map",
@@ -208,7 +208,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3799,
+                        "x": 3269,
                         "y": 955
                     },
                     {
@@ -232,7 +232,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3799,
+                        "x": 3375,
                         "y": 955
                     },
                     {
@@ -256,7 +256,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3799,
+                        "x": 3481,
                         "y": 955
                     },
                     {
@@ -280,7 +280,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3799,
+                        "x": 3587,
                         "y": 955
                     },
                     {
@@ -304,7 +304,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3799,
+                        "x": 3693,
                         "y": 955
                     },
                     {
@@ -352,7 +352,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4116,
+                        "x": 3904,
                         "y": 955
                     },
                     {
@@ -376,7 +376,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4116,
+                        "x": 4010,
                         "y": 955
                     },
                     {

@@ -16,8 +16,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2158,
-                        "y": 874
+                        "x": 1961,
+                        "y": 1206
                     },
                     {
                         "map": "northern_group",
@@ -40,8 +40,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2158,
-                        "y": 874
+                        "x": 2003,
+                        "y": 1164
                     },
                     {
                         "map": "northern_group",
@@ -64,8 +64,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2158,
-                        "y": 874
+                        "x": 2050,
+                        "y": 1116
                     },
                     {
                         "map": "northern_group",
@@ -88,8 +88,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2158,
-                        "y": 874
+                        "x": 2096,
+                        "y": 1070
                     },
                     {
                         "map": "northern_group",
@@ -112,8 +112,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2158,
-                        "y": 874
+                        "x": 2141,
+                        "y": 1026
                     },
                     {
                         "map": "northern_group",
@@ -137,7 +137,7 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874
+                        "y": 980
                     },
                     {
                         "map": "northern_group",
@@ -161,7 +161,7 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 874
+                        "y": 927
                     },
                     {
                         "map": "northern_group",
@@ -209,7 +209,7 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 610
+                        "y": 821
                     },
                     {
                         "map": "northern_group",
@@ -233,7 +233,7 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 610
+                        "y": 768
                     },
                     {
                         "map": "northern_group",
@@ -257,7 +257,7 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 610
+                        "y": 715
                     },
                     {
                         "map": "northern_group",
@@ -281,7 +281,7 @@
                     {
                         "map": "main_map",
                         "x": 2158,
-                        "y": 610
+                        "y": 662
                     },
                     {
                         "map": "northern_group",

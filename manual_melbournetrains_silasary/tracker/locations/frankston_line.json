@@ -18,7 +18,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2515
+                        "y": 2250
                     },
                     {
                         "map": "frankston_line_map",
@@ -43,7 +43,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2515
+                        "y": 2303
                     },
                     {
                         "map": "frankston_line_map",
@@ -68,7 +68,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2515
+                        "y": 2355
                     },
                     {
                         "map": "frankston_line_map",
@@ -93,7 +93,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2515
+                        "y": 2408
                     },
                     {
                         "map": "frankston_line_map",
@@ -118,7 +118,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2515
+                        "y": 2461
                     },
                     {
                         "map": "frankston_line_map",
@@ -168,7 +168,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2832
+                        "y": 2567
                     },
                     {
                         "map": "frankston_line_map",
@@ -193,7 +193,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2832
+                        "y": 2620
                     },
                     {
                         "map": "frankston_line_map",
@@ -218,7 +218,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2832
+                        "y": 2674
                     },
                     {
                         "map": "frankston_line_map",
@@ -243,7 +243,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2832
+                        "y": 2726
                     },
                     {
                         "map": "frankston_line_map",
@@ -268,7 +268,7 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2832
+                        "y": 2779
                     },
                     {
                         "map": "frankston_line_map",
@@ -317,8 +317,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3251,
-                        "y": 3042
+                        "x": 2798,
+                        "y": 2885
                     },
                     {
                         "map": "frankston_line_map",
@@ -342,8 +342,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3251,
-                        "y": 3042
+                        "x": 2810,
+                        "y": 2922
                     },
                     {
                         "map": "frankston_line_map",
@@ -367,8 +367,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3251,
-                        "y": 3042
+                        "x": 2857,
+                        "y": 2969
                     },
                     {
                         "map": "frankston_line_map",
@@ -392,8 +392,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3251,
-                        "y": 3042
+                        "x": 2904,
+                        "y": 3018
                     },
                     {
                         "map": "frankston_line_map",
@@ -417,8 +417,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3251,
-                        "y": 3042
+                        "x": 2964,
+                        "y": 3031
                     },
                     {
                         "map": "frankston_line_map",
@@ -442,8 +442,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3251,
-                        "y": 3042
+                        "x": 3060,
+                        "y": 3031
                     },
                     {
                         "map": "frankston_line_map",
@@ -467,8 +467,8 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 3251,
-                        "y": 3042
+                        "x": 3157,
+                        "y": 3031
                     },
                     {
                         "map": "frankston_line_map",
@@ -517,7 +517,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4117,
+                        "x": 3349,
                         "y": 3051
                     },
                     {
@@ -542,7 +542,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4117,
+                        "x": 3444,
                         "y": 3051
                     },
                     {
@@ -567,7 +567,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4117,
+                        "x": 3540,
                         "y": 3051
                     },
                     {
@@ -592,7 +592,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4117,
+                        "x": 3636,
                         "y": 3051
                     },
                     {
@@ -617,7 +617,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4117,
+                        "x": 3732,
                         "y": 3051
                     },
                     {
@@ -642,7 +642,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4117,
+                        "x": 3829,
                         "y": 3051
                     },
                     {
@@ -667,7 +667,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4117,
+                        "x": 3925,
                         "y": 3051
                     },
                     {
@@ -692,7 +692,7 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 4117,
+                        "x": 4021,
                         "y": 3051
                     },
                     {
