@@ -47,17 +47,24 @@ manual_path = args.manual_path
 
 #     return functions
 
+def format_argument_annotation(arg):
+    if arg.annotation is None:
+        return arg.arg
+    return f'{arg.arg}:{ast.unparse(arg.annotation)}'
+
 for hook_file in glob.glob("hooks/*.py", root_dir=base_path):
     if os.path.basename(hook_file).lower() == 'rules.py':
         continue
     print(f"Processing {hook_file}...")
     with open(f"{base_path}/{hook_file}", "r") as f:
         tree = ast.parse(f.read())
+    expected_imports = {node for node in tree.body if isinstance(node, (ast.Import, ast.ImportFrom))}
     expected_functions = {node.name: node for node in tree.body if isinstance(node, ast.FunctionDef)}
 
     with open(f"{manual_path}/{hook_file}", "r") as f:
         manual_code = f.read()
     tree = ast.parse(manual_code)
+    found_imports = {node for node in tree.body if isinstance(node, (ast.Import, ast.ImportFrom))}
     found_functions = {node.name: node for node in tree.body if isinstance(node, ast.FunctionDef)}
 
     to_add = []
@@ -67,14 +74,34 @@ for hook_file in glob.glob("hooks/*.py", root_dir=base_path):
             print(f"Adding missing function {func_name} in {hook_file}...")
             to_add.append(expected_node)
         else:
-            expected_args = [arg.arg for arg in expected_node.args.args]
-            found_args = [arg.arg for arg in found_functions[func_name].args.args]
+            expected_args = [format_argument_annotation(arg) for arg in expected_node.args.args]
+            found_args = [format_argument_annotation(arg) for arg in found_functions[func_name].args.args]
             if expected_args != found_args:
                 print(f"Warning: function {func_name} in {hook_file} has different arguments.")
                 print(f"  Expected: {expected_args}")
                 print(f"  Found:    {found_args}")
                 to_update.append(expected_node)
             pass
+
+    for imp in expected_imports:
+        if isinstance(imp, ast.Import):
+            if any(f"import {alias.name}" == ast.unparse(found_imp).strip() for found_imp in found_imports for alias in imp.names):
+                continue
+            print(f"Adding missing import in {hook_file}: {ast.unparse(imp).strip()}")
+            manual_code = ast.unparse(imp) + "\n" + manual_code
+        elif isinstance(imp, ast.ImportFrom):
+            for found_imp in found_imports:
+                if not isinstance(found_imp, ast.ImportFrom):
+                    continue
+                if found_imp.module != imp.module:
+                    continue
+                found_names = {alias.name for alias in found_imp.names}
+                expected_names = {alias.name for alias in imp.names}
+                if expected_names.issubset(found_names):
+                    break
+                imp.names = [alias for alias in imp.names if alias.name not in found_names]
+                print(f"Adding missing import in {hook_file}: {ast.unparse(imp).strip()}")
+                manual_code = ast.unparse(imp) + "\n" + manual_code
 
     if not to_add and not to_update:
         print(f"No changes needed for {hook_file}.")
