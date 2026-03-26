@@ -4,6 +4,8 @@ A simple GHA that updates the base manual version.
 
 ## Usage
 
+Slap this file in your `.github/workflows/` folder as `update_manual.yaml`.  Change the name of the subdirectory in the Update Manual step to match your repo layout.
+
 ```yaml
 on:
     workflow_dispatch:  # Gives you a button you can press
