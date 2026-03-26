@@ -35,6 +35,8 @@ jobs:
           labels: automated-pr
 ```
 
+Note:  To use "Create Pull Request", you mujst turn on "Allow GitHub Actions to create and approve pull requests" in your repo settings.  Settings -> Actions -> General -> Scroll all the way to the bottom.
+
 ## What does it do?
 
 It does two things:
