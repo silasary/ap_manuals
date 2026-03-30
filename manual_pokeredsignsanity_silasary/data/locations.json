@@ -1,0 +1,53 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Professor Oak's Lab",
+            "region": "Pallet Town"
+        },
+        {
+            "name": "Pallet Town Sign",
+            "region": "Pallet Town"
+        },
+        {
+            "name": "Player's House",
+            "region": "Pallet Town"
+        },
+        {
+            "name": "Rival's House",
+            "region": "Pallet Town"
+        },
+        {
+            "name": "Route 1 Sign",
+            "region": "Route 1"
+        },
+        {
+            "name": "Viridian City Trainer Tips South",
+            "region": "Viridian City"
+        },
+        {
+            "name": "Viridian City",
+            "region": "Viridian City"
+        },
+        {
+            "name": "Viridian City Gym",
+            "region": "Viridian City-N"
+        },
+        {
+            "name": "Viridian City Trainer Tips North",
+            "region": "Viridian City-N"
+        },
+        {
+            "name": "Victory Road Entrance",
+            "region": "Route 22"
+        },
+        {
+            "name": "Route 2 Sign",
+            "region": "Route 2-SW"
+        },
+        {
+            "name": "Route 2 - Diglett's Cave Entrance",
+            "region": "Route 2-NE"
+        }
+    ]
+}

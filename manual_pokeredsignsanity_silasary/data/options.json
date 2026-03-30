@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "core": {
+    },
+    "user": {
+    }
+
+}

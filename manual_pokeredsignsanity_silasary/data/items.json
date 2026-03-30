@@ -1,0 +1,14 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Trainer Tips:  Mewtwo is a good choice of main"
+        },
+        {
+            "name": "Trainer Tips:  You can read the Viridian Gym sign before getting 7 badges"
+        },
+        {
+            "name": "Gary was here"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "Pokemon Red Signsanity",
+    "creator": "Silasary",
+
+    "filler_item_name": "Trainer Tips",
+
+    "starting_items": [
+    ],
+    "death_link": false,
+    "starting_index": 1
+}
