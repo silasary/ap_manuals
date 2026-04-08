@@ -3,7 +3,7 @@
         "name": "Geelong Line",
         "children": [
             {
-                "name": "Geelong",
+                "name": "Tarniet Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access",
                     "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access"
@@ -12,31 +12,143 @@
                     {
                         "name": "Tarniet Station",
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 721,
+                        "y": 1348
+                    }
+                ]
+            },
+            {
+                "name": "Wyndham Vale Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Wyndham Vale Station",
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 525,
+                        "y": 1348
+                    }
+                ]
+            },
+            {
+                "name": "Little River Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Little River Station",
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 399,
+                        "y": 1363
+                    }
+                ]
+            },
+            {
+                "name": "Lara Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Lara Station",
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 347,
+                        "y": 1413
+                    }
+                ]
+            },
+            {
+                "name": "Corio Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Corio Station",
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 334,
+                        "y": 1510
+                    }
+                ]
+            },
+            {
+                "name": "North Shore Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "North Shore Station",
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 334,
+                        "y": 1562
+                    }
+                ]
+            },
+            {
+                "name": "North Geelong Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "North Geelong Station",
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 334,
+                        "y": 1615
+                    }
+                ]
+            },
+            {
+                "name": "Geelong Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, progressive_waurn_ponds_access:2, progressive_waurn_ponds_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Geelong Station",
                         "item_count": 1
@@ -46,8 +158,7 @@
                     {
                         "map": "main_map",
                         "x": 334,
-                        "y": 1668,
-                        "size": 24
+                        "y": 1668
                     }
                 ]
             }

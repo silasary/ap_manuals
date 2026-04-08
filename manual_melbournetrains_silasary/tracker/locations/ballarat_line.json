@@ -3,7 +3,7 @@
         "name": "Ballarat Line",
         "children": [
             {
-                "name": "Deer Park",
+                "name": "Ardeer Station",
                 "access_rules": [
                     "north_melbourne_and_footscray_access, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
                     "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
@@ -12,18 +12,93 @@
                     {
                         "name": "Ardeer Station",
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Deer Park Station",
+                        "map": "main_map",
+                        "x": 1007,
+                        "y": 1348
+                    }
+                ]
+            },
+            {
+                "name": "Deer Park",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access, progressive_waurn_ponds_access:1",
+                    "north_melbourne_and_footscray_access, progressive_sunbury_access:1, southern_cross_and_flinders_street_access, progressive_ballarat_access:1"
+                ],
+                "sections": [
+                    {
+                        "name": "Deer Park",
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 1922,
-                        "y": 1348,
-                        "size": 24
+                        "x": 922,
+                        "y": 1348
+                    }
+                ]
+            },
+            {
+                "name": "Caroline Springs Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Caroline Springs Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 749,
+                        "y": 1237
+                    }
+                ]
+            },
+            {
+                "name": "Rockbank Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Rockbank Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 700,
+                        "y": 1190
+                    }
+                ]
+            },
+            {
+                "name": "Cobblebank Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Cobblebank Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 653,
+                        "y": 1142
                     }
                 ]
             },
@@ -35,19 +110,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Caroline Springs Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Rockbank Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Cobblebank Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Melton Station",
+                        "name": "Melton",
                         "item_count": 1
                     }
                 ],
@@ -55,8 +118,47 @@
                     {
                         "map": "main_map",
                         "x": 604,
-                        "y": 1093,
-                        "size": 24
+                        "y": 1093
+                    }
+                ]
+            },
+            {
+                "name": "Bacchus Marsh Station",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Bacchus Marsh Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 555,
+                        "y": 1045
+                    }
+                ]
+            },
+            {
+                "name": "Ballam",
+                "access_rules": [
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, progressive_waurn_ponds_access:1, southern_cross_and_flinders_street_access",
+                    "north_melbourne_and_footscray_access, progressive_ballarat_access:1, progressive_ballarat_access:2, progressive_ballarat_access:3, progressive_sunbury_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Ballam",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 508,
+                        "y": 996
                     }
                 ]
             },
@@ -68,15 +170,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Bacchus Marsh Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Ballan Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Ballarat Station",
+                        "name": "Ballarat",
                         "item_count": 1
                     }
                 ],
@@ -84,8 +178,7 @@
                     {
                         "map": "main_map",
                         "x": 463,
-                        "y": 949,
-                        "size": 24
+                        "y": 949
                     }
                 ]
             }

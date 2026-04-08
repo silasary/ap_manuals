@@ -3,7 +3,7 @@
         "name": "CBD",
         "children": [
             {
-                "name": "Southern Cross",
+                "name": "Southern Cross Station",
                 "access_rules": [
                     "southern_cross_and_flinders_street_access"
                 ],
@@ -17,13 +17,22 @@
                     {
                         "map": "main_map",
                         "x": 1980,
-                        "y": 1590,
-                        "size": 24
+                        "y": 1590
+                    },
+                    {
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 474
+                    },
+                    {
+                        "map": "northern_group",
+                        "x": 594,
+                        "y": 398
                     }
                 ]
             },
             {
-                "name": "Flinders Street",
+                "name": "Flinders Street Station",
                 "access_rules": [
                     "southern_cross_and_flinders_street_access"
                 ],
@@ -37,13 +46,22 @@
                     {
                         "map": "main_map",
                         "x": 2230,
-                        "y": 1735,
-                        "size": 24
+                        "y": 1735
+                    },
+                    {
+                        "map": "northern_group",
+                        "x": 179,
+                        "y": 512
+                    },
+                    {
+                        "map": "northern_group",
+                        "x": 594,
+                        "y": 436
                     }
                 ]
             },
             {
-                "name": "City Loop",
+                "name": "Flagstaff Station",
                 "access_rules": [
                     "city_loop_access, southern_cross_and_flinders_street_access"
                 ],
@@ -51,11 +69,61 @@
                     {
                         "name": "Flagstaff Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2076,
+                        "y": 1450
                     },
+                    {
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 455
+                    },
+                    {
+                        "map": "northern_group",
+                        "x": 622,
+                        "y": 379
+                    }
+                ]
+            },
+            {
+                "name": "Melbourne Central Station",
+                "access_rules": [
+                    "city_loop_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Melbourne Central Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2230,
+                        "y": 1450
                     },
+                    {
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 493
+                    },
+                    {
+                        "map": "northern_group",
+                        "x": 622,
+                        "y": 417
+                    }
+                ]
+            },
+            {
+                "name": "Parliament Station",
+                "access_rules": [
+                    "city_loop_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Parliament Station",
                         "item_count": 1
@@ -64,34 +132,27 @@
                 "map_locations": [
                     {
                         "map": "main_map",
-                        "x": 2230,
-                        "y": 1450,
-                        "size": 24
+                        "x": 2353,
+                        "y": 1526
+                    },
+                    {
+                        "map": "northern_group",
+                        "x": 207,
+                        "y": 531
+                    },
+                    {
+                        "map": "northern_group",
+                        "x": 622,
+                        "y": 454
                     }
                 ]
             },
             {
-                "name": "Metro Tunnel",
+                "name": "Arden Station",
                 "access_rules": [
                     "metro_tunnel_access, southern_cross_and_flinders_street_access"
                 ],
                 "sections": [
-                    {
-                        "name": "Anzac Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Town Hall Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "State Library Station",
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Parkville Station",
-                        "item_count": 1
-                    },
                     {
                         "name": "Arden Station",
                         "item_count": 1
@@ -100,9 +161,84 @@
                 "map_locations": [
                     {
                         "map": "main_map",
+                        "x": 1983,
+                        "y": 1304
+                    }
+                ]
+            },
+            {
+                "name": "Parkville Station",
+                "access_rules": [
+                    "metro_tunnel_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Parkville Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2206,
+                        "y": 1304
+                    }
+                ]
+            },
+            {
+                "name": "State Library Station",
+                "access_rules": [
+                    "metro_tunnel_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "State Library Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
                         "x": 2260,
-                        "y": 1655,
-                        "size": 24
+                        "y": 1391
+                    }
+                ]
+            },
+            {
+                "name": "Town Hall Station",
+                "access_rules": [
+                    "metro_tunnel_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Town Hall Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2260,
+                        "y": 1655
+                    }
+                ]
+            },
+            {
+                "name": "Anzac Station",
+                "access_rules": [
+                    "metro_tunnel_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
+                    {
+                        "name": "Anzac Station",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2279,
+                        "y": 1944
                     }
                 ]
             }

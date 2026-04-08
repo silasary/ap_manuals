@@ -3,7 +3,7 @@
         "name": "Mernda Line",
         "children": [
             {
-                "name": "Clifton Hill",
+                "name": "Jolimont Station",
                 "access_rules": [
                     "city_loop_access, clifton_hill_access, southern_cross_and_flinders_street_access"
                 ],
@@ -11,23 +11,123 @@
                     {
                         "name": "Jolimont Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2492,
+                        "y": 1619
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "West Richmond Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "West Richmond Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2540,
+                        "y": 1571
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "North Richmond Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "North Richmond Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2587,
+                        "y": 1524
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Collingwood Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Collingwood Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2636,
+                        "y": 1476
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Victoria Park Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Victoria Park Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2683,
+                        "y": 1429
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Clifton Hill Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Clifton Hill Station",
                         "item_count": 1
@@ -37,13 +137,17 @@
                     {
                         "map": "main_map",
                         "x": 2730,
-                        "y": 1381,
-                        "size": 24
+                        "y": 1381
+                    },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
                     }
                 ]
             },
             {
-                "name": "Preston",
+                "name": "Rushall Station",
                 "access_rules": [
                     "city_loop_access, clifton_hill_access, progressive_mernda_access:1, southern_cross_and_flinders_street_access"
                 ],
@@ -51,27 +155,147 @@
                     {
                         "name": "Rushall Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2759,
+                        "y": 1298
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Merri Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Merri Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2759,
+                        "y": 1245
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Northcote Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Northcote Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2759,
+                        "y": 1191
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Croxton Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Croxton Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2759,
+                        "y": 1139
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Thornbury Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Thornbury Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2759,
+                        "y": 1086
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Bell Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Bell Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2759,
+                        "y": 1033
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Preston Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Preston Station",
                         "item_count": 1
@@ -81,13 +305,17 @@
                     {
                         "map": "main_map",
                         "x": 2759,
-                        "y": 979,
-                        "size": 24
+                        "y": 980
+                    },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
                     }
                 ]
             },
             {
-                "name": "Epping",
+                "name": "Regent Station",
                 "access_rules": [
                     "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, southern_cross_and_flinders_street_access"
                 ],
@@ -95,27 +323,147 @@
                     {
                         "name": "Regent Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2783,
+                        "y": 917
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Reservoir Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Reservoir Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2831,
+                        "y": 870
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Ruthven Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Ruthven Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2879,
+                        "y": 822
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Keon Park Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Keon Park Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2927,
+                        "y": 774
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Thomastown Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Thomastown Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3020,
+                        "y": 740
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lalor Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Lalor Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3126,
+                        "y": 740
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Epping Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Epping Station",
                         "item_count": 1
@@ -125,13 +473,17 @@
                     {
                         "map": "main_map",
                         "x": 3232,
-                        "y": 740,
-                        "size": 24
+                        "y": 740
+                    },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
                     }
                 ]
             },
             {
-                "name": "Mernda",
+                "name": "South Morang Station",
                 "access_rules": [
                     "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, progressive_mernda_access:3, southern_cross_and_flinders_street_access"
                 ],
@@ -139,15 +491,75 @@
                     {
                         "name": "South Morang Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3338,
+                        "y": 740
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Middle Gorge Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, progressive_mernda_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Middle Gorge Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3443,
+                        "y": 740
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Hawkstowe Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, progressive_mernda_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Hawkstowe Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3549,
+                        "y": 740
                     },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Mernda Station",
+                "access_rules": [
+                    "city_loop_access, clifton_hill_access, progressive_mernda_access:1, progressive_mernda_access:2, progressive_mernda_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Mernda Station",
                         "item_count": 1
@@ -157,8 +569,12 @@
                     {
                         "map": "main_map",
                         "x": 3654,
-                        "y": 740,
-                        "size": 24
+                        "y": 740
+                    },
+                    {
+                        "map": "mernda_line_map",
+                        "x": 12,
+                        "y": 12
                     }
                 ]
             }
