@@ -3,7 +3,7 @@
         "name": "Frankston Line",
         "children": [
             {
-                "name": "Moorabbin",
+                "name": "Glen Huntly Station",
                 "access_rules": [
                     "caulfield_access, progressive_frankston_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
                     "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, southern_cross_and_flinders_street_access"
@@ -12,23 +12,128 @@
                     {
                         "name": "Glen Huntly Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2250
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Ormond Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Ormond Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2303
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "McKinnon Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "McKinnon Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2355
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Bentleigh Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Bentleigh Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2408
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Patterson Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Patterson Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2461
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Moorabbin Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Moorabbin Station",
                         "item_count": 1
@@ -38,13 +143,17 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2515,
-                        "size": 24
+                        "y": 2515
+                    },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
                     }
                 ]
             },
             {
-                "name": "Mordialloc",
+                "name": "Highett Station",
                 "access_rules": [
                     "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
                     "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, southern_cross_and_flinders_street_access"
@@ -53,23 +162,128 @@
                     {
                         "name": "Highett Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2567
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Southland Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Southland Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2620
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Cheltenham Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Cheltenham Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2674
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Mentone Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Mentone Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2726
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Parkdale Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Parkdale Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2779
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Mordialloc Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Mordialloc Station",
                         "item_count": 1
@@ -79,13 +293,17 @@
                     {
                         "map": "main_map",
                         "x": 2798,
-                        "y": 2832,
-                        "size": 24
+                        "y": 2832
+                    },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
                     }
                 ]
             },
             {
-                "name": "Frankston",
+                "name": "Aspendale Station",
                 "access_rules": [
                     "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
                     "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access"
@@ -94,31 +312,178 @@
                     {
                         "name": "Aspendale Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2798,
+                        "y": 2885
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Edithvale Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Edithvale Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2810,
+                        "y": 2922
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Chelsea Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Chelsea Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2857,
+                        "y": 2969
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Bonbeach Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Bonbeach Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2904,
+                        "y": 3018
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Carrum Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Carrum Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 2964,
+                        "y": 3031
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Seaford Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Seaford Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3060,
+                        "y": 3031
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Kananook Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Kananook Station",
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3157,
+                        "y": 3031
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Frankston Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access"
+                ],
+                "sections": [
                     {
                         "name": "Frankston Station",
                         "item_count": 1
@@ -128,13 +493,17 @@
                     {
                         "map": "main_map",
                         "x": 3251,
-                        "y": 3042,
-                        "size": 24
+                        "y": 3042
+                    },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
                     }
                 ]
             },
             {
-                "name": "Stony Point",
+                "name": "Leawarra Station",
                 "access_rules": [
                     "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
                     "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
@@ -142,74 +511,219 @@
                 "sections": [
                     {
                         "name": "Leawarra Station",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "include_stony_point"
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3349,
+                        "y": 3051
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Baxter Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
+                ],
+                "sections": [
                     {
                         "name": "Baxter Station",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "include_stony_point"
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3444,
+                        "y": 3051
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Somerville Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
+                ],
+                "sections": [
                     {
                         "name": "Somerville Station",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "include_stony_point"
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3540,
+                        "y": 3051
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Tyabb Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
+                ],
+                "sections": [
                     {
                         "name": "Tyabb Station",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "include_stony_point"
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3636,
+                        "y": 3051
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Hastings Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
+                ],
+                "sections": [
                     {
                         "name": "Hastings Station",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "include_stony_point"
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3732,
+                        "y": 3051
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Bittern Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
+                ],
+                "sections": [
                     {
                         "name": "Bittern Station",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "include_stony_point"
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3829,
+                        "y": 3051
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Morradoo Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
+                ],
+                "sections": [
                     {
                         "name": "Morradoo Station",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "include_stony_point"
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 3925,
+                        "y": 3051
                     },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Crib Point Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
+                ],
+                "sections": [
                     {
                         "name": "Crib Point Station",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "include_stony_point"
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "main_map",
+                        "x": 4021,
+                        "y": 3051
                     },
                     {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
+                    }
+                ]
+            },
+            {
+                "name": "Stony Point Station",
+                "access_rules": [
+                    "caulfield_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, richmond_and_south_yarra_access, southern_cross_and_flinders_street_access, stony_point_access",
+                    "caulfield_access, metro_tunnel_access, progressive_frankston_access:1, progressive_frankston_access:2, progressive_frankston_access:3, southern_cross_and_flinders_street_access, stony_point_access"
+                ],
+                "sections": [
+                    {
                         "name": "Stony Point Station",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "include_stony_point"
-                        ]
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "main_map",
                         "x": 4117,
-                        "y": 3051,
-                        "size": 24
+                        "y": 3051
+                    },
+                    {
+                        "map": "frankston_line_map",
+                        "x": 12,
+                        "y": 12
                     }
                 ]
             }

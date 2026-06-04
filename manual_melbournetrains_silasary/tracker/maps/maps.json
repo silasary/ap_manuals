@@ -22,5 +22,11 @@
         "img": "images/maps/clifton_hill_group.png",
         "location_size": 10,
         "location_border_thickness": 1
+    },
+    {
+        "name": "cragieburn_line_map",
+        "img": "images/maps/cragieburn_line_map.png",
+        "location_size": 10,
+        "location_border_thickness": 1
     }
 ]
